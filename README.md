@@ -198,10 +198,6 @@ A new and improved solution to the underfilled soul gem problem.
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder. The easiest way to remove these, unless you know what files that is, is to do a clean install of Skyrim VR again. See [Clean Skyrim](#clean-skyrim)
 
-## Contributing
-
-See [Contributing](CONTRIBUTING.md).
-
 ## Changelog
 
 See [Changelog](CHANGELOG.md).
