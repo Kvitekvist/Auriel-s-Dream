@@ -41,9 +41,9 @@
   - [Contributing](#contributing)
   - [Changelog](#changelog)
 
-## Preamble
+## Auriel's Dream
 
-Equanimity is a list focusing on a different style of gameplay based on the full Simonrim Suite with a lot of mod interaction to make the game feel very similar yet different. Check the [Noteworthy Mods](#noteworthy-mods) section later on for more information on what is provided.
+Auriel's Dream is a graphical overhaul of Skyrim VR. The focus is to stay close to vanilla while improving the visual experience to next levels. A few mods change gameplay. Check the [Noteworthy Mods](#noteworthy-mods) section later on for more information on is changed.
 
 ## Installation
 
@@ -71,18 +71,42 @@ To ensure that Steam does not automatically updates the game for you, head over 
 
 #### Set the Game language to English
 
-Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**.
+Just do it. This entire Modlist is in English and 99% of glall mods you will find are also in Enish. I highly recommend playing the game in English and **I will not give support to people with a non-English game**. Wabbajack does not support SkyrimVR files in other languages either. Wabbajack will fail file validation for other languages.
 
 Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
 #### Clean Skyrim
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
+Delete the following directories:
+1. Open Stem Steam
+2. Right click on “Skyrim VR”
+3. Choose: Properties >>  Local Files >>  Browse
+https://i.ibb.co/V33zFWt/steam-folder.png
+4. Delete all content in the folder. Do not reinstall yet.
+5. Open Windows Search and copy/paste %LOCALAPPDATA%
+6. Delete the Skyrim VR folder
+7. Navigate to Users\YOURNAME\Documents\My Games\
+8. Delete the SkyrimVR folder
 
-#### Start Skyrim
+#### Reinstalling Skyrim
 
-After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
-Start the game and exit once you're in the main menu.
+Open Steam and ensure that Skyrimis uninstalled through on it.
+Reinstall Skyrim from Steam.
+Run the Skyrim VR launcher through Steam and let it detect your settings, then close the launcher. This is only necessary once.
+
+#### Creation Club Updating Protection
+
+Every time the Creation Club releases new content SKSEVR breaks. A fixed version of SKSEVR usually releases fast, but to ensure your game isn’t broken for a few days follow these steps:
+Open your Steam Library
+Find The Elder Scrolls V: Skyrim VR and open the properties
+Click Properties
+Click the Updates tab
+Under the Automatic Updates section, select “Only update the game when I launch it”
+
+#### Start Skyrim VR
+
+After you have done everything above and got a clean Skyrim VR installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
+Start the game and exit once you're in the main menu. This will make sure that some of the tools the Mod Organizer that comes with Auriel's Dream will find the Skyrim VR folder.
 
 ### Using Wabbajack
 
