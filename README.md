@@ -10,7 +10,7 @@
       - [Clean Skyrim](#clean-skyrim)
       - [Reinstall Skyrim](#reinstalling-skyrim-vr)
       - [Creation Club Updating Protection](#creation-club-updating-protection)
-      - [Start Skyrim](#start-skyrim)
+      - [Start Skyrim VR](#start-skyrim-vr)
       - [Using Wabbajack](#using-wabbajack)
         - [Preparations](#preparations)
       - [Downloading and Installing](#downloading-and-installing)
