@@ -1,6 +1,6 @@
-# Equanimity
+# Auriel's Dream
 
-- [Equanimity](#equanimity)
+- [Auriel's Dream](#auriel-s-dream)
   - [Preamble](#preamble)
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
@@ -11,14 +11,15 @@
       - [Set the Game language to English](#set-the-game-language-to-english)
       - [Clean Skyrim](#clean-skyrim)
       - [Reinstall Skyrim](#reinstalling-skyrim)
+      - [Creation Club Updating Protection](#creation-club-updating-protection)
       - [Start Skyrim](#start-skyrim)
-    - [Using Wabbajack](#using-wabbajack)
-      - [Preparations](#preparations)
+      - [Using Wabbajack](#using-wabbajack)
+        - [Preparations](#preparations)
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
-    - [Copy Game Folder Files](#copy-game-folder-files)
-    - [ENB](#enb)
+         - [Copy Game Folder Files](#copy-game-folder-files)
+         - [ENB](#enb)
   - [How to start up Equanimity](#how-to-start-up-equanimity)
   - [Updating](#updating)
   - [Noteworthy Mods](#noteworthy-mods)
