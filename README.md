@@ -7,7 +7,6 @@
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
       - [Steam Config](#steam-config)
         - [Disable the Steam Overlay](#disable-the-steam-overlay)
-      - [Change Steams Update Behavior](#change-steams-update-behavior)
       - [Set the Game language to English](#set-the-game-language-to-english)
       - [Clean Skyrim](#clean-skyrim)
       - [Reinstall Skyrim](#reinstalling-skyrim)
@@ -65,12 +64,6 @@ The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 
 Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
 
-#### Change Steams Update Behavior
-
-SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
-
-To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
-
 #### Set the Game language to English
 
 Just do it. This entire Modlist is in English and 99% of glall mods you will find are also in Enish. I highly recommend playing the game in English and **I will not give support to people with a non-English game**. Wabbajack does not support SkyrimVR files in other languages either. Wabbajack will fail file validation for other languages.
@@ -92,10 +85,10 @@ Delete the following directories:
 7. Navigate to Users\YOURNAME\Documents\My Games\
 8. Delete the SkyrimVR folder
 
-#### Reinstalling Skyrim
+#### Reinstalling Skyrim VR
 
 Open Steam and ensure that Skyrimis uninstalled through on it.
-Reinstall Skyrim from Steam.
+Reinstall Skyrim VR from Steam.
 Run the Skyrim VR launcher through Steam and let it detect your settings, then close the launcher. This is only necessary once.
 
 #### Creation Club Updating Protection
@@ -120,11 +113,20 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 #### Downloading and Installing
 
+Now, create a new folder on the root of your gaming drive. For me, this is the C drive. Name it "Auriels Dream"
+
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open Wabbajack
+![image](https://i.ibb.co/JK3rdZc/Browse-modlist.png)
+
 2. Click on Browse Modlists, and download Auriel's Dream from the gallery.
-3. Once the download is done set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Auriels Dream`). The downloads path should automatically fill in the installation path.
+![image](https://i.ibb.co/JxBxFJB/install-modlist.png)
+
+Note that there are no special characters in the folder name here.
+
+3. Once the download is done set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Place it on the root of your C drive or the drive you use for gaming. For me that is `C:/Auriels Dream`. The downloads path should automatically fill in the installation path.
+
 ![image](https://i.ibb.co/V9JdtQT/C-drive-folder.png)
 
 4. Click the Go/Begin button
