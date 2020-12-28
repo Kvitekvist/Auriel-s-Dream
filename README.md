@@ -16,12 +16,12 @@
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
-        - [Copy Game Folder Files](#copy-game-folder-files)
+        
+- [Copy Game Folder Files](#copy-game-folder-files)
   - [How to start up Auriel's Dream](#how-to-start-up-auriel-s-dream)
   - [Updating](#updating)
   - [Noteworthy Mods](#noteworthy-mods)
   - [Removing the Modlist](#removing-the-modlist)
-  - [Credits and Thanks](#credits-and-thanks)
   - [Changelog](#changelog)
 
 ## Auriel's Dream
