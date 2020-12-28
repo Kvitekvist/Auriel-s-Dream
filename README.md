@@ -1,7 +1,6 @@
 # Auriel's Dream
 
 - [Auriel's Dream](#auriel-s-dream)
-  - [Preamble](#preamble)
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -9,7 +8,7 @@
         - [Disable the Steam Overlay](#disable-the-steam-overlay)
       - [Set the Game language to English](#set-the-game-language-to-english)
       - [Clean Skyrim](#clean-skyrim)
-      - [Reinstall Skyrim](#reinstalling-skyrim)
+      - [Reinstall Skyrim](#reinstalling-skyrim-vr)
       - [Creation Club Updating Protection](#creation-club-updating-protection)
       - [Start Skyrim](#start-skyrim)
       - [Using Wabbajack](#using-wabbajack)
