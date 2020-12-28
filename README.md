@@ -23,7 +23,6 @@
   - [Noteworthy Mods](#noteworthy-mods)
   - [Removing the Modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
-  - [Contributing](#contributing)
   - [Changelog](#changelog)
 
 ## Auriel's Dream
@@ -197,15 +196,7 @@ A new and improved solution to the underfilled soul gem problem.
 
 ### Removing the Modlist
 
-You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
-
-## Credits and Thanks
-
-- _YOU_ for actually reading the readme. Thanks a ton!!
-- jdsmith2816 - for incredible help with getting mods working/patches/navmesh help
-- DarkladyLexy for her consistency patches which I have used and modified upon as well as her colleciton of NPC overhauls which look amazing
-- erri120 & jdsmith2816 - Repository template
-- Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
+You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder. The easiest way to remove these, unless you know what files that is, is to do a clean install of Skyrim VR again. See [Clean Skyrim](#clean-skyrim)
 
 ## Contributing
 
