@@ -2,27 +2,49 @@ Version 4.7
 24 Late Load - Removed "Invisible headgears"
 
 01 Early Load - Added: DllLoader
+
 03 VR Spesific - Added: MageVR
+
 03 VR Spesific - Added: Engine Fixes VR
+
 04 Audio - Added: Main Theme - Auriel's Accension
+
 05 Fixes - Changed Dwemer Gates Don't Reset to ESP version.
+
 05 Fixes - Added: Don't Talk With Your Mouth Full
+
 05 Fixes - Added: No More Standing Too Close SSE
+
 10 Locations Added: Skyland - High Hrothgar
+
 11 Items and clutter - pack replacers - Added: Ruins Tools Retexture
+
 12 Items and clutter - single replacers - Added: Wolfskull Altar Redone
+
 13 Consumables - Added: Jazbay by Mari
+
 16 Creatures - Added: Immersive Horses
+
 16 Creatures - Added: Immersive Horses 2K Horse Textures
+
 16 Creatures - Added: Immersive dragons RESIZED SSE
+
 18 Equipment - Added: Lunar Weapon Replacers
+
 19 Artifacts - Added: Remiros' Hrothmund's Axe HD
+
 19 Artifacts - Added: Near Vanilla Project - Eye of Magnus Redone
+
 19 Artifacts - Added: Remiros' Ebony Blade HD
+
 19 Artifacts - Added: Staff of Magnus HD
+
 21 New weapons and armors - Added: Wizard Hats
+
 24 Late load Added - The Great City Of Falkreath - Immersive Citizens Patch
+
 Added note: In VRIK mod configuration (in game), change head size to 0 to aviod helmet/headgear gltiches.
+
 
 Version 4.2
 02 Interface - Added Golden SkyrimVR Logo
