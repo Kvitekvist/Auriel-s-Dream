@@ -18,7 +18,7 @@
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
          - [Copy Game Folder Files](#copy-game-folder-files)
-  - [How to start up Equanimity](#how-to-start-up-equanimity)
+  - [How to start up Auriel's Dream](#how-to-start-up-auriel-s-dream)
   - [Updating](#updating)
   - [Noteworthy Mods](#noteworthy-mods)
   - [Removing the Modlist](#removing-the-modlist)
@@ -162,7 +162,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Noteworthy Mods
 
-Equanimity uses the full suite of Simon Magus's mods which are:
+Auriel's Dream uses the full suite of Simon Magus's mods which are:
 
 1. [SkyComplete](https://www.nexusmods.com/skyrim/mods/90941)
 This mod is visible only in the Mod Configuration window, and it helps the you keep track of all quests done and not done, as well as all unique items you have and are missing.
