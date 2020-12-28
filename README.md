@@ -10,6 +10,7 @@
       - [Change Steams Update Behavior](#change-steams-update-behavior)
       - [Set the Game language to English](#set-the-game-language-to-english)
       - [Clean Skyrim](#clean-skyrim)
+      - [Reinstall Skyrim](#reinstalling-skyrim)
       - [Start Skyrim](#start-skyrim)
     - [Using Wabbajack](#using-wabbajack)
       - [Preparations](#preparations)
