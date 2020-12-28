@@ -17,7 +17,7 @@
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
    - [Copy Game Folder Files](#copy-game-folder-files)
-  - [How to start up Auriels Dream](#how-to-start-up-auriels-dream)
+  - [How to start up Auriel's Dream](#how-to-start-up-auriels-dream)
   - [Updating](#updating)
   - [Noteworthy Mods](#noteworthy-mods)
   - [Removing the Modlist](#removing-the-modlist)
@@ -143,7 +143,7 @@ Copy the relevant files from the `Installation Folder/Game Folder Files` directo
 1. Copy ALL the files marked in green, and paste them into your game folder.
 2. There are 2 more folders here. If you have an LCD headset then folder marked in purple is relevant for you. If you have an OLED headset then the one makred in yellow is relevant for you. DO NOT copy the relevant folder. You must OPEN the relevant folder, then copy all the files inside that folder and paste those into the game folder like in step 1.
 
-## How to start up Auriels Dream
+## How to start up Auriel's Dream
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 ![image](https://i.ibb.co/BT63QKP/Run-SKSE.png)
