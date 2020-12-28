@@ -1,5 +1,6 @@
 Version 4.7
 24 Late Load - Removed "Invisible headgears"
+
 01 Early Load - Added: DllLoader
 03 VR Spesific - Added: MageVR
 03 VR Spesific - Added: Engine Fixes VR
