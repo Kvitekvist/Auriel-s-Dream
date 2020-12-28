@@ -17,7 +17,7 @@
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
    - [Copy Game Folder Files](#copy-game-folder-files)
-  - [How to start up Auriel's Dream](#how-to-start-up-auriel-s-dream)
+  - [How to start up Auriel's Dream](#how-to-start-up-auriel's-dream)
   - [Updating](#updating)
   - [Noteworthy Mods](#noteworthy-mods)
   - [Removing the Modlist](#removing-the-modlist)
