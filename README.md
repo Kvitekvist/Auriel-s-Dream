@@ -46,6 +46,8 @@
 
 Auriel's Dream is a graphical overhaul of Skyrim VR. The focus is to stay close to vanilla while improving the visual experience to next levels. A few mods change gameplay. Check the [Noteworthy Mods](#noteworthy-mods) section later on for more information on is changed.
 
+![video](https://www.youtube.com/watch?v=I42TrKFAvyg)
+
 ## Installation
 
 ### Pre-Installation
