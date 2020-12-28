@@ -85,6 +85,7 @@ Delete the following directories:
 3. Choose: Properties >>  Local Files >>  Browse
 
 ![image](https://i.ibb.co/V33zFWt/steam-folder.png)
+
 4. Delete all content in the folder. Do not reinstall yet.
 5. Open Windows Search and copy/paste %LOCALAPPDATA%
 6. Delete the Skyrim VR folder
@@ -122,8 +123,10 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open Wabbajack
-2. Click on Browse Modlists, and download Equanimity from the gallery.
-3. Once the download is done set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Equanimity`). The downloads path should automatically fill in the installation path.
+2. Click on Browse Modlists, and download Auriel's Dream from the gallery.
+3. Once the download is done set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Auriels Dream`). The downloads path should automatically fill in the installation path.
+![image](https://i.ibb.co/V9JdtQT/C-drive-folder.png)
+
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
 6. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
