@@ -1,3 +1,57 @@
+Version 5.3
+01 Early Load - Added: DynDOLOD Resources SE	
+02 Core Texture packs - Updated: Auriel's Dream - Core Texture Pack. New performance version added.	
+03 Interface - Added: Sovngarde - A Nordic Font	
+04 VR Spesific - Updated: VRIK.	
+04 VR Spesific - Removed: MageVR. Performance problems.	
+04 VR Spesific - Updated:HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR	
+07 Landscape - Added: Indistinguishable Billboards for Skyrim SE	
+07 Landscape - Removed: CC's Enhanced Ore Veins SSE - 2K	
+11 Locations - Added: Auril's Dream - Skyrim 2020 Texture pack	
+13 Items and clutter - single replacers - Added: ElSopa - HD Better Bloody Rags SE	
+14 Consumables - Added: Swamp fungal pod by Mari 2K	
+14 Consumables - Added: High Poly Sweet Rolls	
+17 Creatures - Merged Immersive Horses and Immersive Horses 2K Horse Textures	
+21 Magic - Added: Conjuration Hand FX - SSE	
+23 LOD Output - Added: Trees and buildings LOD	
+23 LOD Output - Added: TexGen Textures 128	
+23 LOD Output - Added: Terrain LOD	
+26 Late load - Added: Immersive Horses - Bruma Patch (BETA)	
+26 Late load - Added: Book Covers Skyrim - Immersive Horses Patch	
+26 Late load - Added: Flora Respawn Fix SE for Beyond Skyrim	
+26 Late load - Added: PapyrusUtil VR - Scripting Utility Functions	
+26 Late load - Added: Remove FXCamera Attached Pine Needles	
+26 Late load - Added: Remove FXCamera Attached Flying aspen leaves	
+Added steo to remove duplicate assets.	
+
+Version 5.1
+02 Core Texture packs - Added: Auriel's Dream - Core Texture Pack:	
+02 Core Texture packs - Removed: Project Clarity - Clutter Full Res	
+02 Core Texture packs - Removed: Project Clarity - Creatures Full Res	
+02 Core Texture packs - Removed: Project Clarity - Effects Textures Redone	
+02 Core Texture packs - Removed: Project Clarity - Statue Textures Redone	
+02 Core Texture packs - Removed: Project Clarity - Vanilla Weapon Textures Redone	
+02 Core Texture packs - Removed: Project Clarity - Vanilla Clothing And Jewelry Textures Redone	
+02 Core Texture packs - Removed: Project Clarity - Vanilla Armor Textures Redone	
+Version 5.0
+
+Created a new Mod Category: 02 Core Texture packs	
+Renamed all mod categories with new number values.	
+02 Core Texture packs - Moved: Static Mesh Improvement Mod. Moved from 01 Early Load	
+02 Core Texture packs - Moved: High Poly Project. Moved from 01 Early Load	
+02 Core Texture packs - Added: Project Clarity - Clutter Full Res	
+02 Core Texture packs - Added: Project Clarity - Creatures Full Res	
+02 Core Texture packs - Added: Project Clarity - Effects Textures Redone	
+02 Core Texture packs - Added: Project Clarity - Statue Textures Redone	
+02 Core Texture packs - Added: Project Clarity - Vanilla Weapon Textures Redone	
+02 Core Texture packs - Added: Project Clarity - Vanilla Clothing And Jewelry Textures Redone	
+02 Core Texture packs - Added: Project Clarity - Vanilla Armor Textures Redone	
+06 Fixes - Reinstalled: Dwemer Gates Don't Reset. ESP version was merged into installer.	
+14 Consumables - Added: 3D Junipers - Trees and Berries	
+21 Magic - Reinstalled: Voltage. This mod is now ported to SSE.	
+25 Late load - Added: Relationship Dialogue Overhaul - Immersive Horses Patch	
+Deleted all duplicate assets to save space.
+
 Version 4.7
 24 Late Load - Removed "Invisible headgears"
 
