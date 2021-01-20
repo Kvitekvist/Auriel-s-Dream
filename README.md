@@ -1,6 +1,7 @@
 # Auriel's Dream
 
 - [Auriel's Dream](#auriel-s-dream)
+  - [System Requirements](#system-requirements)
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -29,6 +30,14 @@ Auriel's Dream is a graphical overhaul of Skyrim VR. The focus is to stay close 
 
 
 [![See trailer](https://i.ibb.co/k45nLXV/video-cover2.jpg)](https://www.youtube.com/watch?v=I42TrKFAvyg)
+
+## System Requirements
+
+Minimum system requirements;
+Storage Space: 93GB (rounded uo)
+RAM: 32 GB (Or 16GB with a 20GB windows page file) Game uses about 20GB RAM.
+CPU: Intel Core i7-7700HQ, 4 cores at 2.80 GHz
+GPU: GTX 1660
 
 ## Installation
 
