@@ -7,24 +7,41 @@ Sunrays are disabled by default in the ENB settings.
 Mods removed (and replaced):
 
 Forgotten Vale HD by CleverCharff 4K 2K - replaced by - Kvite's - Forgotten Vale
+
 Forgotten Vale Ice by CleverCharff - replaced by - Kvite's - Forgotten Vale
+
 CleverCharff's Apocrypha 4K 2K - replaced by - Kvite's Apocrypha
+
 CleverCharff's Sovngarde 4K 2K - replaced by - Kvite's Sovngarde
+
 CleverCharff's Soul Cairn 4K 2K - replaced by - Soul Cairn HD
+
 CleverCharff's Riften HD 4K 2K - replaced by - Kvite's Riften
+
 Raven Rock HD by CleverCharff 4K 2K - replaced by - Kvite's Raven Rock Textures
+
 Solitude HD by CleverCharff 4K 2K - replaced by - Kvite's Solitude 
+
 Farmhouses and Farm Towns by CleverCharff 4K 2K - replaced by - WiZkiD Parallax Farmhouses (non-parallax)
+
 Windhelm by CleverCharff 4K 2K - Just removed
+
 CleverCharff's Whiterun 4K-2K - replaced by - Kvite's Whiterun City
+
 Eye Normal Map Fix SSE - Removed, didnt work as intended.
+
 Snowberries by Mari - replaced by - Sufficiently Optimized Snowberries 3D
+
 Realistic Aspen Trees SE - Just removed
+
 Consistent Older People
 
 New mods:
+
 Iconic's Azura's Star Dungeon Retexture
+
 Auriel's Sunlight
+
 Cinematic Fire Effects 2 HD - SSE
 
 
