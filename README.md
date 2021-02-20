@@ -19,6 +19,7 @@
   - [Post-Installation](#post-installation)
    - [Copy Game Folder Files](#copy-game-folder-files)
   - [How to start up Auriel's Dream](#how-to-start-up-auriels-dream)
+  - [Calibrating the colours](calibrating-the-colours)
   - [Updating](#updating)
   - [Noteworthy Mods](#noteworthy-mods)
   - [Removing the Modlist](#removing-the-modlist)
@@ -157,6 +158,16 @@ Copy the relevant files from the `Installation Folder/Game Folder Files` directo
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 ![image](https://i.ibb.co/BT63QKP/Run-SKSE.png)
+
+## Calibrating the colours
+Here is a quick video showing you how to get the perfect colour callibration using IMAGINATOR. In short:
+Saturation: 20
+Red: 1
+Orange: 1
+Sky: 2
+Sunlighet: 2
+
+https://youtu.be/cihZIc-_PAQ
 
 ## Updating
 
