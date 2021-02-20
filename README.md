@@ -151,10 +151,7 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 ### Copy Game Folder Files
 
 Copy the relevant files from the `Installation Folder/Game Folder Files` directory into your game folder (this is where skyrimvr.exe is located).
-![image](https://i.ibb.co/z2dd004/Game-folder-files.png)
-
-1. Copy ALL the files marked in green, and paste them into your game folder.
-2. There are 2 more folders here. If you have an LCD headset then folder marked in purple is relevant for you. If you have an OLED headset then the one makred in yellow is relevant for you. DO NOT copy the relevant folder. You must OPEN the relevant folder, then copy all the files inside that folder and paste those into the game folder like in step 1.
+![image](https://i.ibb.co/7NX7Y3L/GFF.jpg)
 
 ## How to start up Auriel's Dream
 
@@ -204,6 +201,12 @@ You can now destroy the glass of display cases with blunt weapons and destructio
 
 10. [GIST - Genuinely Intelligent Soul Trap SE](https://www.nexusmods.com/skyrimspecialedition/mods/15755)
 A new and improved solution to the underfilled soul gem problem.
+
+11. [IMAGINATOR - Visual Control Device for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/4577)
+A light weight colour adjustment spell.
+
+12. [Reading Is Good (Legacy)](https://www.nexusmods.com/skyrimspecialedition/mods/20018)
+Reading a skill book now permanently increases your skill leaning speed by 5% per book.
 
 ### Removing the Modlist
 
