@@ -1,4 +1,29 @@
-Version 6.05
+Version 6.0.6
+New and lighter ENB settings.
+No more BSA files, full file transperancy and no asset duplicates.
+Fixed glowing eyes / hair on NPCs
+Skill books now give a 5% permantent skill incease speed buff per book.
+Fixed spell tome texture bug.
+
+Mods added:
+IMAGINATOR - Visual Control Device for Skyrim
+Iconic's Remastered Paragon Gems
+Particle Lights For ENB SE - Paragon Gems
+JK's Candlehearth Hall
+Wyrmstooth
+Gadnor's Staff by Ave
+Improved Dwemer Glass
+Reading Is Good (Legacy)
+Ancient Nord Armor and Saviors Hide CBBEv3 Echo
+Sleek Wolf Armor for Males and Females (CBBE)
+Rayek's End - SSE Expanded Edition
+Barenziah's Glory SE - Patch (Removes floating gems)
+Better Volkihar Secret Entrance
+Iconic's Moon Crest Retexture
+Rally's Solstheim Shrines
+Shrine of Azura HD
+
+Version 6.0.5
 Lots of textures have been re-compressed for better performance.
 Locations have been split into sub categories.
 Core texture pack have been greatly optimized
