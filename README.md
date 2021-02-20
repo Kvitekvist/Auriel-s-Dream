@@ -161,10 +161,15 @@ Head over to the installation folder and locate an executable named `ModOrganize
 
 ## Calibrating the colours
 Here is a quick video showing you how to get the perfect colour callibration using IMAGINATOR. In short:
+
 Saturation: 20
+
 Red: 1
+
 Orange: 1
+
 Sky: 2
+
 Sunlighet: 2
 
 https://youtu.be/cihZIc-_PAQ
