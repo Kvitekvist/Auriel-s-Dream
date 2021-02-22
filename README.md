@@ -159,6 +159,11 @@ Copy the relevant files from the `Installation Folder/Game Folder Files` directo
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 ![image](https://i.ibb.co/BT63QKP/Run-SKSE.png)
 
+## Make the game brighter
+You can make it lighter by increasing the ambient light settings, and increase skylight settings. These are settings inside the ENB. You press CTRL + SHIFT + ENTER to find that setting. Scroll down to Environment - Here you find the ambient light (one for each period of a day) settings. Pump up those numbers until you get the light level you prefer. Try setting the ambient values to 2-3 or even high for a brighter world. 10 would be very bright.
+
+![image](https://i.ibb.co/mCL5Qt6/2021-02-22-16-52-01.jpg)
+
 ## Calibrating the colours
 Here is a quick video showing you how to get the perfect colour callibration using IMAGINATOR. In short:
 
