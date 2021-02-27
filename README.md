@@ -191,8 +191,6 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Noteworthy Mods
 
-Auriel's Dream uses the full suite of Simon Magus's mods which are:
-
 1. [SkyComplete](https://www.nexusmods.com/skyrim/mods/90941)
 This mod is visible only in the Mod Configuration window, and it helps the you keep track of all quests done and not done, as well as all unique items you have and are missing.
 
