@@ -1,3 +1,78 @@
+``` md
+
+#Version  7.0.0
+
+## Update comments
++ This is a major flora overhaul, removing reduentant trees and plant, improving performance, adding new LODs and so on.
++ Update is not save game compatible
++ A few gameplay changing or QOA mods have been added.
++ MO2 has been updated. Mod categories can now be closed/expanded
+
+### Mods to be aware of
++ Rune spell fixes - Rune magic have perk fixes and you can cast 3 runes now, making them a more viable spell.
++ Optional: Ordinator is added as an optional mod
++ Optional: Dragonborn speak naturally is added. You can read diablog options to choose interact with NPCs and say "goodbye" to end a dialog.
++ Optional: Apocalypse - Magic of Skyrim
++ High Level Enemies - Raised Ability Caps added to make sure illusion spells are relevant at late game as well.
++ Audiobooks of Skyrim. You can have books read for you while you adventure.
++ Bring Your Silver Lite Vamps Ghosts and Werewolves version. This mod is added to give silver weapons more meaning.
+
+## Mods Added
++ Rune Spell Fixes and Tweaks
++ Ordinator - Perks of Skyrim
++ Ordinator - VR Patch
++ Perk Extender
++ Dragonborn Speaks Naturally
++ Apocalypse - Magic of Skyrim
++ High Level Enemies - Raised Ability Caps
++ Rune Spell Fixes and Tweaks
++ Simply Balanced
++ Improved closefaced helmets
++ Improved Closefaced Helmets - WACCF Compatable
++ SPECTRE - The Ultimate Ghost Appearance Enhancement
++ Improved Dwemer Glass
++ WiZkiD Pinewatch
++ Waterplants
++ Trees Addon WIP Tundra
++ Trees Addon Cities WIP
++ Skyrim 3D Landscapes Groundcovers 1k
++ Be Seated Skyrim VR Edition
++ Simple Realistic Archery VR
++ Audiobooks of Skyrim
++ Audio Settings for Audiobooks of Skyrim
++ Kvite's Classic Dragons
++ Bring Your Silver Lite Vamps Ghosts and Werewolves version
+
+## Mods Removed
+- Myrkvior - The Flora Of Skyrim - Trees SSE
+- RaceMenu High Heels
+- HQ Tree Bark
+- Aspens Ablaze
+- High Poly Gleamblossoms
+- Deathbell by Mari
+- 3D Junipers - Trees and Berries
+- Jazbay by Mari
+- Spiky grass by Mari
+- Tundra cotton by Mari 2k
+- Thistle by Mari SE 2k
+- Lavender by Mari SE 2K
+- Sufficiently Optimized Snowberries 3D
+- Nirnroot by Mari 2K
+
+## Mods Updated
++ xLODGen_Output
++ TexGen_Output
++ DynDOLOD_Output
++ DX Dark Knight Armor 
++ Cathedral - 3D Pine Grass
++ TREES ADDON SE
++ LOD settings in ini imprvoed
++ Great cities plugins merged into one
+
+## Bug fixes
++ Frozen Electrocuted Combustion
+```
+
 Version 6.0.6
 New and lighter ENB settings.
 No more BSA files, full file transperancy and no asset duplicates.
