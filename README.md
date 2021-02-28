@@ -19,6 +19,7 @@
   - [Post-Installation](#post-installation)
    - [Copy Game Folder Files](#copy-game-folder-files)
   - [How to start up Auriel's Dream](#how-to-start-up-auriels-dream)
+  - [Setup VRIK](#setup-vrik)
   - [Calibrating the colours](calibrating-the-colours)
   - [Updating](#updating)
   - [Noteworthy Mods](#noteworthy-mods)
@@ -164,18 +165,23 @@ You can make it lighter by increasing the ambient light settings, and increase s
 
 ![image](https://i.ibb.co/mCL5Qt6/2021-02-22-16-52-01.jpg)
 
+## Setup VRIK
+I made 2 videos for VRIK
+1. Setup Weapon Holsters: https://www.youtube.com/watch?v=KTGhQCVcgNE
+2. Setup Gestures: https://www.youtube.com/watch?v=CEi7gwN8hgg
+
 ## Calibrating the colours
 Here is a quick video showing you how to get the perfect colour callibration using IMAGINATOR. In short:
 
-Saturation: 20
+Saturation: 5
 
 Red: 1
 
 Orange: 1
 
-Sky: 2
+Sky: 1
 
-Sunlighet: 2
+Sunlighet: 1
 
 https://youtu.be/cihZIc-_PAQ
 
