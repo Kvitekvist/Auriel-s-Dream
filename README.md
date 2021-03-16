@@ -38,7 +38,7 @@ Auriel's Dream is a graphical overhaul of Skyrim VR. The focus is to stay close 
 
 Minimum system requirements:
 
-Storage Space: 100GB (rounded uo)
+Storage Space: 98 GB (rounded uo)
 
 RAM: 32 GB (Or 16GB with a 20GB windows page file) Game uses about 20GB RAM.
 
