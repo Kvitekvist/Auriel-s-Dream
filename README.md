@@ -162,7 +162,7 @@ Head over to the installation folder and locate an executable named `ModOrganize
 ![image](https://i.ibb.co/BT63QKP/Run-SKSE.png)
 
 ## Make the game brighter
-You can make it lighter by increasing the ambient light settings, and increase skylight settings. These are settings inside the ENB. You press CTRL + SHIFT + ENTER to find that setting. Scroll down to Environment - Here you find the ambient light (one for each period of a day) settings. Pump up those numbers until you get the light level you prefer. Try setting the ambient values to 2-3 or even high for a brighter world. 10 would be very bright.
+You can make it lighter by increasing the ambient light settings, and increase skylight settings. These are settings inside the ENB. You press SHIFT + ENTER to find that setting. Scroll down to Environment - Here you find the ambient light (one for each period of a day) settings. Pump up those numbers until you get the light level you prefer. Try setting the ambient values to 2-3 or even high for a brighter world. 10 would be very bright. When you have found the settings you like, press "Save Configuration" and press SHIFT + ENTER to close the ENB interface.
 
 ![image](https://i.ibb.co/mCL5Qt6/2021-02-22-16-52-01.jpg)
 
