@@ -81,6 +81,7 @@ Delete the following directories:
 
 4. Delete all content in the folder. Do not reinstall yet.
 5. Open Windows Search and copy/paste %LOCALAPPDATA%
+![image](https://i.ibb.co/VpY98qX/ws.jpg)
 6. Delete the Skyrim VR folder
 7. Navigate to Users\YOURNAME\Documents\My Games\
 8. Delete the SkyrimVR folder
