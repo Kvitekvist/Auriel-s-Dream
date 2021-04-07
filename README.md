@@ -75,11 +75,7 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 Delete the following directories:
 1. Open Stem Steam
 2. Right click on “Skyrim VR”
-3. Choose: Properties >>  Local Files >>  Browse
-
-![image](https://i.ibb.co/V33zFWt/steam-folder.png)
-
-
+3. Choose: Properties >>  Local Files >>  Browse ![image](https://i.ibb.co/V33zFWt/steam-folder.png)
 4. Delete all content in the folder. Do not reinstall yet.
 5. Open Windows Search and copy/paste %LOCALAPPDATA%
 ![image](https://i.ibb.co/VpY98qX/ws.jpg)
