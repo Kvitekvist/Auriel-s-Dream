@@ -79,6 +79,7 @@ Delete the following directories:
 
 ![image](https://i.ibb.co/V33zFWt/steam-folder.png)
 
+
 4. Delete all content in the folder. Do not reinstall yet.
 5. Open Windows Search and copy/paste %LOCALAPPDATA%
 ![image](https://i.ibb.co/VpY98qX/ws.jpg)
