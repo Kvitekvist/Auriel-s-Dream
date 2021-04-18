@@ -23,6 +23,7 @@
    - [Setup VRIK](#setup-vrik)
    - [Calibrating the colours](calibrating-the-colours)
   - [Updating](#updating)
+  - [Optional mods](#optional-mods)
   - [Noteworthy Mods](#noteworthy-mods)
   - [Removing the Modlist](#removing-the-modlist)
   - [Changelog](#changelog)
@@ -194,9 +195,28 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
+## Optional Mods
+Do check out the Optional mods sections. This contains a lot of popular mods.
+
+![image](https://i.ibb.co/1ZrB0G6/2021-03-27-19-32-04.jpg)
+
+1. MageVR
+Popular mod, mostly for the backpack feature and spell gestures.
+2. Dual Wield Block VR.
+3. Weapon Throw VR. Throw melee weapons, including bound weapons. Very powerful.
+4. VRIK Rift-Index-WMR Controller Bindings. Spesific bindings recommended for Rift / Index users.
+5. Spellsiphon - Immersive Combat. Very powerful and different way of magic gameplay.
+6. Dragonborn Speaks Naturally - Use your voice to control dialogues with NPCs.
+7. Ordinator - Perks of Skyrim - For those that want a more advanced perk tree.
+8. Apocalypse - Magic of Skyrim - For those who wants way more spells added to the game
+9. Apocalypse - Ordinator Compatibility Patch - Needed if you want both mods.
+10. Simple Realistic Archery VR - You have to draw each arrow manually after each shot.
+11. Harder Dragons Addon - Dragons have MUCH higher stats.
+12. Faster Respawn - Areas reset after only 3 days. Reduces save file bloat and allows for players to clear out dungones that are allready done more frequently.
+
 ## Noteworthy Mods
 
-1. [SkyComplete](https://www.nexusmods.com/skyrim/mods/90941)
+1. [Completionist - Quest Tracker](https://www.nexusmods.com/skyrimspecialedition/mods/46358)
 This mod is visible only in the Mod Configuration window, and it helps the you keep track of all quests done and not done, as well as all unique items you have and are missing.
 
 2. [Unleveled Items](https://www.nexusmods.com/skyrimspecialedition/mods/254)
@@ -231,6 +251,9 @@ A light weight colour adjustment spell.
 
 12. [Reading Is Good (Legacy)](https://www.nexusmods.com/skyrimspecialedition/mods/20018)
 Reading a skill book now permanently increases your skill leaning speed by 5% per book.
+
+13. [Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)
+Really nice system for equiping stuff without opening a menu.
 
 ### Removing the Modlist
 
