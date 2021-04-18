@@ -198,7 +198,7 @@ Updating is like installing. You only have to make sure that you select the same
 ## Optional Mods
 Do check out the Optional mods sections. This contains a lot of popular mods.
 
-![image](https://i.ibb.co/1ZrB0G6/2021-03-27-19-32-04.jpg)
+![image](https://i.ibb.co/Yc0vVy3/optional-mods.jpg)
 
 1. MageVR
 Popular mod, mostly for the backpack feature and spell gestures.
