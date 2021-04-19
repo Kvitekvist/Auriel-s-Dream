@@ -197,22 +197,34 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Optional Mods
 Do check out the Optional mods sections. This contains a lot of popular mods.
+If you want to use any of these, you only need to activate them. Do not change their load order.
 
 ![image](https://i.ibb.co/Yc0vVy3/optional-mods.jpg)
 
-1. MageVR
-Popular mod, mostly for the backpack feature and spell gestures.
-2. Dual Wield Block VR.
+1. MageVR - Popular mod, mostly for the backpack feature and spell gestures.
+Not uncluded because: I don't like the background program this mod needs to run. It can get stuck and cause performance issues. VRIK gestures also has a great gesture system.
+2. Dual Wield Block VR. 
+Not included because (NIB): Not needed unless you play as a dual wield champ. I like to keep "things" to a minimum.
 3. Weapon Throw VR. Throw melee weapons, including bound weapons. Very powerful.
+NIB: I find it too powerful.
 4. VRIK Rift-Index-WMR Controller Bindings. Spesific bindings recommended for Rift / Index users.
+NIB: Only relevant for some users.
 5. Spellsiphon - Immersive Combat. Very powerful and different way of magic gameplay.
+NIB: Too powerful and changes the game too much from the Vanilla experience.
 6. Dragonborn Speaks Naturally - Use your voice to control dialogues with NPCs.
+NIB: Some users struggle to get this working. It also does not seem that most players use voice commands. Keeping active things to a minimum.
 7. Ordinator - Perks of Skyrim - For those that want a more advanced perk tree.
+NIB: Changes the vanilla game play too much.
 8. Apocalypse - Magic of Skyrim - For those who wants way more spells added to the game
+NIB: Changes the vanilla game play too much.
 9. Apocalypse - Ordinator Compatibility Patch - Needed if you want both mods.
+NIB: You need to use both mods above.
 10. Simple Realistic Archery VR - You have to draw each arrow manually after each shot.
+NIB: I don't find the mod working smoothly enough.
 11. Harder Dragons Addon - Dragons have MUCH higher stats.
+NIB: Changes difficulty significantly against dragons. By default I want the list to be vanilla difficulty.
 12. Faster Respawn - Areas reset after only 3 days. Reduces save file bloat and allows for players to clear out dungones that are allready done more frequently.
+NIB: I actually recommend having this active as it is good for the save file. But it can be a little exploited by players that just wait 3 days and repeat a cave for easy experience or loot.
 
 ## Noteworthy Mods
 
