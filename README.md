@@ -202,7 +202,7 @@ If you want to use any of these, you only need to activate them. Do not change t
 ![image](https://i.ibb.co/Yc0vVy3/optional-mods.jpg)
 
 1. MageVR - Popular mod, mostly for the backpack feature and spell gestures.
-Not uncluded because: I don't like the background program this mod needs to run. It can get stuck and cause performance issues. VRIK gestures also has a great gesture system.
+Not included because: I don't like the background program this mod needs to run. It can get stuck and cause performance issues. VRIK gestures also has a great gesture system.
 2. Dual Wield Block VR. 
 Not included because (NIB): Not needed unless you play as a dual wield champ. I like to keep "things" to a minimum.
 3. Weapon Throw VR. Throw melee weapons, including bound weapons. Very powerful.
