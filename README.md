@@ -155,6 +155,10 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 Copy the relevant files from the `Installation Folder/Game Folder Files` directory into your game folder (this is where skyrimvr.exe is located).
 ![image](https://i.ibb.co/7NX7Y3L/GFF.jpg)
 
+Next, download this file and place it in the same folder that you pasted the content above
+https://drive.google.com/file/d/1n5ZIV09uDbZnDMvF_imLhrhZCBrhSwdU/view?usp=sharing
+
+
 ## How to start up Auriel's Dream
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
@@ -173,7 +177,7 @@ I made 2 videos for VRIK
 ## Calibrating the colours
 Here is a quick video showing you how to get the perfect colour callibration using IMAGINATOR. In short:
 
-Saturation: 5
+Saturation: 3
 
 Red: 1
 
