@@ -174,20 +174,6 @@ I made 2 videos for VRIK
 1. Setup Weapon Holsters: https://www.youtube.com/watch?v=KTGhQCVcgNE
 2. Setup Gestures: https://www.youtube.com/watch?v=CEi7gwN8hgg
 
-## Calibrating the colours
-Here is a quick video showing you how to get the perfect colour callibration using IMAGINATOR. In short:
-
-Saturation: 3
-
-Red: 1
-
-Orange: 1
-
-Sky: 1
-
-Sunlighet: 1
-
-https://youtu.be/cihZIc-_PAQ
 
 ## Updating
 
