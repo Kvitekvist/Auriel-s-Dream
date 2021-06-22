@@ -153,7 +153,7 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 ### Copy Game Folder Files
 
 Copy the relevant files from the `Installation Folder/Game Folder Files` directory into your game folder (this is where skyrimvr.exe is located).
-![image](https://i.ibb.co/7NX7Y3L/GFF.jpg)
+![image](https://i.ibb.co/fM4CrwQ/gff.jpg)
 
 Next, download this file and place into your game folder (this is where skyrimvr.exe is located).
 https://drive.google.com/file/d/1n5ZIV09uDbZnDMvF_imLhrhZCBrhSwdU/view?usp=sharing
@@ -219,6 +219,8 @@ NIB: Changes difficulty significantly against dragons. By default I want the lis
 NIB: I actually recommend having this active as it is good for the save file. But it can be a little exploited by players that just wait 3 days and repeat a cave for easy experience or loot.
 
 ### Optional Survival Mods
+![image](https://i.ibb.co/5LTCpVt/surivial.jpg)
+
 1. iNeed - Food, Water and Sleep. Very popular mod that makes food much more relevant. Pairs very well with Campire and Frostfall for the ultimate surival experience.
 2. Campfire & Frostfall
 3. Food effect for Frostfall
@@ -226,6 +228,8 @@ NIB: I actually recommend having this active as it is good for the save file. Bu
 5. Improved Traps. Makes traps much harder to detect, dangerous to disarm (if you fail) and traps do much more damage.
 
 ### Optional Harder Enemies
+![image](https://i.ibb.co/FBxCqHc/harder-enemies.jpg)
+
 1. SkyTEST - Harder Creatures SE. Harder creatures in general.
 2. High Level Enemies. Harder creatures and they scale to your level.ø
 3. Real Bosses. Makes bosses harder.
