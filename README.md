@@ -185,9 +185,11 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-## Optional Mods
+## Optional Mods 
 Do check out the Optional mods sections. This contains a lot of popular mods.
 If you want to use any of these, you only need to activate them. Do not change their load order.
+
+### Optional Gameplay mods
 
 ![image](https://i.ibb.co/Yc0vVy3/optional-mods.jpg)
 
@@ -215,6 +217,22 @@ NIB: I don't find the mod working smoothly enough.
 NIB: Changes difficulty significantly against dragons. By default I want the list to be vanilla difficulty.
 12. Faster Respawn - Areas reset after only 3 days. Reduces save file bloat and allows for players to clear out dungones that are allready done more frequently.
 NIB: I actually recommend having this active as it is good for the save file. But it can be a little exploited by players that just wait 3 days and repeat a cave for easy experience or loot.
+
+### Optional Survival Mods
+1. iNeed - Food, Water and Sleep. Very popular mod that makes food much more relevant. Pairs very well with Campire and Frostfall for the ultimate surival experience.
+2. Campfire & Frostfall
+3. Food effect for Frostfall
+4. Scarcity SE - Less Loot Mod. Loot becomes much less scares, slowing down your economical growth, and makes finding good treasure much more exciting.
+5. Improved Traps. Makes traps much harder to detect, dangerous to disarm (if you fail) and traps do much more damage.
+
+### Optional Harder Enemies
+1. SkyTEST - Harder Creatures SE. Harder creatures in general.
+2. High Level Enemies. Harder creatures and they scale to your level.ø
+3. Real Bosses. Makes bosses harder.
+4. Increased Enemy Spawns SSE No Scripts. 3x more enemies,
+5. True Miraak-Harder Miraak. Powers up Miraak.
+6. Harder Dragons Addon. Dragons har much harder to take down.
+7. Know Your Enemy - Trait-based resistances and weaknesses. You should use different weapon / spell types against different types of enemies.
 
 ## Noteworthy Mods
 
