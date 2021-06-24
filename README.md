@@ -279,6 +279,9 @@ Reading a skill book now permanently increases your skill leaning speed by 5% pe
 13. [Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)
 Really nice system for equiping stuff without opening a menu.
 
+14. [Bring Your Silver Lite Vamps Ghosts and Werewolves version](https://www.nexusmods.com/skyrimspecialedition/mods/3496)
+I've added this to give value to the silver weapons in the game. Also, it shakes things up a bit when you fight undead. Remember to bring silver when hunting the undead!
+
 ### Removing the Modlist
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder. The easiest way to remove these, unless you know what files that is, is to do a clean install of Skyrim VR again. See [Clean Skyrim](#clean-skyrim)
