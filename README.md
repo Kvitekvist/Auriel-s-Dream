@@ -155,8 +155,8 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 Copy the relevant files from the `Installation Folder/Game Folder Files` directory into your game folder (this is where skyrimvr.exe is located).
 ![image](https://i.ibb.co/fM4CrwQ/gff.jpg)
 
-Next, download this file and place into your game folder (this is where skyrimvr.exe is located).
-https://drive.google.com/file/d/1n5ZIV09uDbZnDMvF_imLhrhZCBrhSwdU/view?usp=sharing
+Next, download this file (if you are updating from a version older than 7.1.10) and place into your game folder (this is where skyrimvr.exe is located).
+https://drive.google.com/file/d/1n5ZIV09uDbZnDMvF_imLhrhZCBrhSwdU/view?usp=sharing. If you are having a fresh install, don't mind this step.
 
 
 ## How to start up Auriel's Dream
