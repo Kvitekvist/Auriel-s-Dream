@@ -152,7 +152,7 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 ### Copy Game Folder Files
 
-Copy the relevant files from the `Installation Folder/Game Folder Files` directory into your game folder (this is where skyrimvr.exe is located).
+Copy these files from the `Game Folder Files` directory into your game folder (this is where skyrimvr.exe is located).
 ![image](https://i.ibb.co/fM4CrwQ/gff.jpg)
 
 Next, download this file (if you are updating from a version older than 7.1.10) and place into your game folder (this is where skyrimvr.exe is located).
