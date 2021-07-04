@@ -22,7 +22,6 @@
     - [Make the game brighter](#make-the-game-brighter)
     - [How to start up Auriel's Dream](#how-to-start-up-auriels-dream)
     - [Setup VRIK](#setup-vrik)
-    - [Calibrating the colours](calibrating-the-colours)
 - [Updating](#updating)
 - [Optional mods](#optional-mods)
 - [Noteworthy Mods](#noteworthy-mods)
