@@ -27,7 +27,7 @@
   - [Optional mods](#optional-mods)
   - [Noteworthy Mods](#noteworthy-mods)
   - [Removing the Modlist](#removing-the-modlist)
- - [Changelog](#changelog)
+- [Changelog](#changelog)
 
 ## Auriel's Dream
 
