@@ -27,7 +27,7 @@
   - [Optional mods](#optional-mods)
   - [Noteworthy Mods](#noteworthy-mods)
   - [Removing the Modlist](#removing-the-modlist)
-  - [Changelog](#changelog)
+ - [Changelog](#changelog)
 
 ## Auriel's Dream
 
@@ -54,25 +54,25 @@ GPU: GTX 1660
 
 These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
 
-#### Installing Microsoft Visual C++ Redistributable Package
+### Installing Microsoft Visual C++ Redistributable Package
 
 I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
-#### Steam Config
+### Steam Config
 
-##### Disable the Steam Overlay
+### Disable the Steam Overlay
 
 The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 
 Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
 
-#### Set the Game language to English
+### Set the Game language to English
 
 Just do it. This entire Modlist is in English and 99% of glall mods you will find are also in Enish. I highly recommend playing the game in English and **I will not give support to people with a non-English game**. Wabbajack does not support SkyrimVR files in other languages either. Wabbajack will fail file validation for other languages.
 
 Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
-#### Clean Skyrim
+### Clean Skyrim
 
 Delete the following directories:
 1. Open Stem Steam
@@ -85,13 +85,13 @@ Delete the following directories:
 7. Navigate to Users\YOURNAME\Documents\My Games\
 8. Delete the SkyrimVR folder
 
-#### Reinstalling Skyrim VR
+### Reinstalling Skyrim VR
 
 Open Steam and ensure that Skyrimis uninstalled through on it.
 Reinstall Skyrim VR from Steam.
 Run the Skyrim VR launcher through Steam and let it detect your settings, then close the launcher. This is only necessary once.
 
-#### Creation Club Updating Protection
+### Creation Club Updating Protection
 
 Every time the Creation Club releases new content SKSEVR breaks. A fixed version of SKSEVR usually releases fast, but to ensure your game isn’t broken for a few days follow these steps:
 Open your Steam Library
@@ -100,18 +100,18 @@ Click Properties
 Click the Updates tab
 Under the Automatic Updates section, select “Only update the game when I launch it”
 
-#### Start Skyrim VR
+### Start Skyrim VR
 
 After you have done everything above and got a clean Skyrim VR installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
 Start the game and exit once you're in the main menu. This will make sure that some of the tools the Mod Organizer that comes with Auriel's Dream will find the Skyrim VR folder.
 
 ### Using Wabbajack
 
-#### Preparations
+### Preparations
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
-#### Downloading and Installing
+### Downloading and Installing
 
 Now, create a new folder on the root of your gaming drive. For me, this is the C drive. Name it "Auriels Dream"
 ![image](https://i.ibb.co/V9JdtQT/C-drive-folder.png)
@@ -129,7 +129,7 @@ The download and installation process can take a very long time depending on you
 5. Wait for Wabbajack to finish
 6. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
 
-##### Problems with Wabbajack
+### Problems with Wabbajack
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you loose no progress.
 
@@ -178,23 +178,23 @@ Then navigate to the Presets menu by pressing the symbol in the top left (the th
 Now here, you can choose from a list of different ENB profiles. There are 3 difference performance indicators in their names. Low means low performance cost, Medium means medium performance cost and High means high performance cost. Toggle on the button of your choice. By default, The first option is checked. Uncheck this and then check any of the other options that you would like to test.
 ![image](https://i.ibb.co/FH866MN/enb4.jpg)
 
-## How to start up Auriel's Dream
+### How to start up Auriel's Dream
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 ![image](https://i.ibb.co/BT63QKP/Run-SKSE.png)
 
-## Make the game brighter
+### Make the game brighter
 You can make it lighter by increasing the ambient light settings, and increase skylight settings. These are settings inside the ENB. You press SHIFT + ENTER to find that setting. Scroll down to Environment - Here you find the ambient light (one for each period of a day) settings. Pump up those numbers until you get the light level you prefer. Try setting the ambient values to 2-3 or even high for a brighter world. 10 would be very bright. When you have found the settings you like, press "Save Configuration" and press SHIFT + ENTER to close the ENB interface.
 
 ![image](https://i.ibb.co/mCL5Qt6/2021-02-22-16-52-01.jpg)
 
-## Setup VRIK
+### Setup VRIK
 I made 2 videos for VRIK
 1. Setup Weapon Holsters: https://www.youtube.com/watch?v=KTGhQCVcgNE
 2. Setup Gestures: https://www.youtube.com/watch?v=CEi7gwN8hgg
 
 
-## Updating
+### Updating
 
 If this Modlist receives an update please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
 
@@ -204,7 +204,7 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-## Optional Mods 
+### Optional Mods 
 Do check out the Optional mods sections. This contains a lot of popular mods.
 If you want to use any of these, you only need to activate them. Do not change their load order.
 
@@ -257,7 +257,7 @@ NIB: I actually recommend having this active as it is good for the save file. Bu
 6. Harder Dragons Addon. Dragons har much harder to take down.
 7. Know Your Enemy - Trait-based resistances and weaknesses. You should use different weapon / spell types against different types of enemies.
 
-## Noteworthy Mods
+### Noteworthy Mods
 
 1. [Completionist - Quest Tracker](https://www.nexusmods.com/skyrimspecialedition/mods/46358)
 This mod is visible only in the Mod Configuration window, and it helps the you keep track of all quests done and not done, as well as all unique items you have and are missing.
@@ -305,6 +305,6 @@ I've added this to give value to the silver weapons in the game. Also, it shakes
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder. The easiest way to remove these, unless you know what files that is, is to do a clean install of Skyrim VR again. See [Clean Skyrim](#clean-skyrim)
 
-## Changelog
+# Changelog
 
 See [Changelog](CHANGELOG.md).
