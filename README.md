@@ -17,7 +17,8 @@
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
-   - [Copy Game Folder Files](#copy-game-folder-files)
+   - [Activate the Essential Files](#activate-the-essential-files)
+   - [Choose ENB or Shader](#choose-enb-or-shader)
    - [Make the game brighter](#make-the-game-brighter)
    - [How to start up Auriel's Dream](#how-to-start-up-auriels-dream)
    - [Setup VRIK](#setup-vrik)
@@ -150,13 +151,19 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 ## Post-Installation
 
-### Copy Game Folder Files
+### Activate the Essential Files
 
-Copy these files from the `Game Folder Files` directory into your game folder (this is where skyrimvr.exe is located).
-![image](https://i.ibb.co/fM4CrwQ/gff.jpg)
+First, run the program named Essentials Files from Mod Organizer 2.
+![image](https://i.ibb.co/KrvCB09/essentials1.jpg)
 
-Next, download this file (if you are updating from a version older than 7.1.10) and place into your game folder (this is where skyrimvr.exe is located).
-https://drive.google.com/file/d/1n5ZIV09uDbZnDMvF_imLhrhZCBrhSwdU/view?usp=sharing. If you are having a fresh install, don't mind this step.
+Then Click "OK" if you get a message saying something about Failed to check for update. This is ok.
+![image](https://i.ibb.co/P5mpMfH/enb2.jpg)
+
+Then navigate to the Presets menu bu pressing the symbol in the top left (the three lines). The menu should look like this:
+![image](https://i.ibb.co/YkFSZJ1/enb3.jpg)
+
+Finally, activate the two options "Essential Files" and "3D Audio". If you need more performance, you skip 3D audio.
+![image](https://i.ibb.co/dQzVFtL/essentials2.jpg)
 
 ### Choose ENB or Shader
 From MO2, run the ENB program:
@@ -165,7 +172,7 @@ From MO2, run the ENB program:
 Then Click "OK" if you get a message saying something about Failed to check for update. This is ok.
 ![image](https://i.ibb.co/P5mpMfH/enb2.jpg)
 
-Then navigate to the Presets menu bu pressing the symbol in the top left. The menu should look like this:
+Then navigate to the Presets menu bu pressing the symbol in the top left (the three lines). The menu should look like this:
 ![image](https://i.ibb.co/YkFSZJ1/enb3.jpg)
 
 Now here, you can choose from a list of different ENB profiles. There are 3 difference performance indicators in their names. Low means low performance cost, Medium means medium performance cost and High means high performance cost. Toggle on the button of your choice. By default, The first option is checked. Uncheck this and then check any of the other options that you would like to test.
