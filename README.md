@@ -161,7 +161,8 @@ Then Click "OK" if you get a message saying something about Failed to check for 
 Then navigate to the Presets menu by pressing the symbol in the top left (the three lines). The menu should look like this:
 ![image](https://i.ibb.co/YkFSZJ1/enb3.jpg)
 
-Finally, activate the two options "Essential Files" and "3D Audio". If you need more performance, you skip 3D audio.
+Finally, activate the two options "Essential Files" and "3D Audio". If they were already on, then turn them off, then on again.
+If you need more performance, you skip 3D audio.
 ![image](https://i.ibb.co/dQzVFtL/essentials2.jpg)
 
 ### Choose ENB or Shader
@@ -174,7 +175,8 @@ Then Click "OK" if you get a message saying something about Failed to check for 
 Then navigate to the Presets menu by pressing the symbol in the top left (the three lines). The menu should look like this:
 ![image](https://i.ibb.co/YkFSZJ1/enb3.jpg)
 
-Now here, you can choose from a list of different ENB profiles. There are 3 difference performance indicators in their names. Low means low performance cost, Medium means medium performance cost and High means high performance cost. Toggle on the button of your choice. By default, The first option is checked. Uncheck this and then check any of the other options that you would like to test.
+Now here, you can choose from a list of different ENB profiles. There are 3 difference performance indicators in their names. Low means low performance cost, Medium means medium performance cost and High means high performance cost. 
+If any preset was marked as on, then turn them off, then toggle on the button of your choice. By default, The first option is checked. Uncheck this and then check any of the other options that you would like to test.
 ![image](https://i.ibb.co/FH866MN/enb4.jpg)
 
 ### How to start up Auriel's Dream
