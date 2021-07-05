@@ -153,6 +153,7 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 ### Activate the Essential Files
 
 First, run the program named Essentials Files from Mod Organizer 2.
+This step will add the required files for SKSE, Engine Fixes, DLL loader and other essentail files that cannot be handled by MO2.
 ![image](https://i.ibb.co/KrvCB09/essentials1.jpg)
 
 Then Click "OK" if you get a message saying something about Failed to check for update. This is ok.
