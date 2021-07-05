@@ -186,9 +186,7 @@ Head over to the installation folder and locate an executable named `ModOrganize
 ![image](https://i.ibb.co/BT63QKP/Run-SKSE.png)
 
 ### Make the game brighter
-You can make it lighter by increasing the ambient light settings, and increase skylight settings. These are settings inside the ENB. You press SHIFT + ENTER to find that setting. Scroll down to Environment - Here you find the ambient light (one for each period of a day) settings. Pump up those numbers until you get the light level you prefer. Try setting the ambient values to 2-3 or even high for a brighter world. 10 would be very bright. When you have found the settings you like, press "Save Configuration" and press SHIFT + ENTER to close the ENB interface.
-
-![image](https://i.ibb.co/mCL5Qt6/2021-02-22-16-52-01.jpg)
+Run the ENB program from MO2. Then choose a preset that has the word "Brighter Nights" in it. If the game is still too dark for you, use the VrVIsion preset.
 
 ### Setup VRIK
 I made 2 videos for VRIK
@@ -305,7 +303,7 @@ I've added this to give value to the silver weapons in the game. Also, it shakes
 
 ### Removing the Modlist
 
-You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder. The easiest way to remove these, unless you know what files that is, is to do a clean install of Skyrim VR again. See [Clean Skyrim](#clean-skyrim)
+First, run the 2 programs in MO2 called "ENB" and "Essential Files", and toggle off all the options in the preset. You can now remove the MO2 folder and be done with it.
 
 # Changelog
 
