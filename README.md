@@ -146,7 +146,8 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 **Windows is reporting that a virus has been detected**:
 
-Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected . This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected . This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for windows defender can be found 
+[here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ## Post-Installation
 
@@ -154,30 +155,38 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 First, run the program named Essentials Files from Mod Organizer 2.
 This step will add the required files for SKSE, Engine Fixes, DLL loader and other essentail files that cannot be handled by MO2.
+
 ![image](https://i.ibb.co/KrvCB09/essentials1.jpg)
 
 Then Click "OK" if you get a message saying something about Failed to check for update. This is ok.
+
 ![image](https://i.ibb.co/P5mpMfH/enb2.jpg)
 
 Then navigate to the Presets menu by pressing the symbol in the top left (the three lines). The menu should look like this:
+
 ![image](https://i.ibb.co/YkFSZJ1/enb3.jpg)
 
 Finally, activate the two options "Essential Files" and "3D Audio". If they were already on, then turn them off, then on again.
 If you need more performance, you skip 3D audio.
+
 ![image](https://i.ibb.co/dQzVFtL/essentials2.jpg)
 
 ### Choose ENB or Shader
 From MO2, run the ENB program:
+
 ![image](https://i.ibb.co/9YSbjZG/enb1.jpg)
 
 Then Click "OK" if you get a message saying something about Failed to check for update. This is ok.
+
 ![image](https://i.ibb.co/P5mpMfH/enb2.jpg)
 
 Then navigate to the Presets menu by pressing the symbol in the top left (the three lines). The menu should look like this:
+
 ![image](https://i.ibb.co/YkFSZJ1/enb3.jpg)
 
 Now here, you can choose from a list of different ENB profiles. There are 3 difference performance indicators in their names. Low means low performance cost, Medium means medium performance cost and High means high performance cost. 
 If any preset was marked as on, then turn them off, then toggle on the button of your choice. By default, The first option is checked. Uncheck this and then check any of the other options that you would like to test.
+
 ![image](https://i.ibb.co/FH866MN/enb4.jpg)
 
 ### How to start up Auriel's Dream
