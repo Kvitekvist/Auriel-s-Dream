@@ -63,11 +63,11 @@ I doubt you need to do this since you likely already have this installed. The pa
 
 The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 
-Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
+Open the Properties window (right-click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
 
 ### Set the Game language to English
 
-Just do it. This entire Modlist is in English and 99% of glall mods you will find are also in Enish. I highly recommend playing the game in English and **I will not give support to people with a non-English game**. Wabbajack does not support SkyrimVR files in other languages either. Wabbajack will fail file validation for other languages.
+Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**. Wabbajack does not support SkyrimVR files in other languages either. Wabbajack will fail file validation for other languages.
 
 Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
@@ -86,7 +86,7 @@ Delete the following directories:
 
 ### Reinstalling Skyrim VR
 
-Open Steam and ensure that Skyrimis uninstalled through on it.
+Open Steam and ensure that Skyrim is uninstalled through on it.
 Reinstall Skyrim VR from Steam.
 Run the Skyrim VR launcher through Steam and let it detect your settings, then close the launcher. This is only necessary once.
 
@@ -101,7 +101,7 @@ Under the Automatic Updates section, select “Only update the game when I launc
 
 ### Start Skyrim VR
 
-After you have done everything above and got a clean Skyrim VR installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
+After you have done everything above and got a clean Skyrim VR installation ready, start the Launcher and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
 Start the game and exit once you're in the main menu. This will make sure that some of the tools the Mod Organizer that comes with Auriel's Dream will find the Skyrim VR folder.
 
 ### Using Wabbajack
@@ -122,7 +122,7 @@ The download and installation process can take a very long time depending on you
 
 2. Click on Browse Modlists, and download Auriel's Dream from the gallery.
 
-3. Once the download of the wabbajack file is done, run the file and set the Installation folder the folder you just created. The downloads path should automatically fill in the installation path.
+3. Once the download of the Wabbajack file is done, run the file and set the Installation folder the folder you just created. The downloads path should automatically fill in the installation path.
 
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
@@ -130,7 +130,7 @@ The download and installation process can take a very long time depending on you
 
 ### Problems with Wabbajack
 
-There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you loose no progress.
+There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
 
 **Could not download x**:
 
@@ -154,7 +154,7 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 ### Activate the Essential Files
 
 First, run the program named Essentials Files from Mod Organizer 2.
-This step will add the required files for SKSE, Engine Fixes, DLL loader and other essentail files that cannot be handled by MO2.
+This step will add the required files for SKSE, Engine Fixes, DLL loader and other essential files that cannot be handled by MO2.
 
 ![image](https://i.ibb.co/KrvCB09/essentials1.jpg)
 
@@ -227,7 +227,7 @@ Not included because: I don't like the background program this mod needs to run.
 Not included because (NIB): Not needed unless you play as a dual wield champ. I like to keep "things" to a minimum.
 3. Weapon Throw VR. Throw melee weapons, including bound weapons. Very powerful.
 NIB: I find it too powerful.
-4. VRIK Rift-Index-WMR Controller Bindings. Spesific bindings recommended for Rift / Index users.
+4. VRIK Rift-Index-WMR Controller Bindings. Specific bindings recommended for Rift / Index users.
 NIB: Only relevant for some users.
 5. Spellsiphon - Immersive Combat. Very powerful and different way of magic gameplay.
 NIB: Too powerful and changes the game too much from the Vanilla experience.
@@ -243,7 +243,7 @@ NIB: You need to use both mods above.
 NIB: I don't find the mod working smoothly enough.
 11. Harder Dragons Addon - Dragons have MUCH higher stats.
 NIB: Changes difficulty significantly against dragons. By default I want the list to be vanilla difficulty.
-12. Faster Respawn - Areas reset after only 3 days. Reduces save file bloat and allows for players to clear out dungones that are allready done more frequently.
+12. Faster Respawn - Areas reset after only 3 days. Reduces save file bloat and allows for players to clear out dungeons that are already done more frequently.
 NIB: I actually recommend having this active as it is good for the save file. But it can be a little exploited by players that just wait 3 days and repeat a cave for easy experience or loot.
 
 ### Optional Survival Mods
@@ -269,13 +269,13 @@ NIB: I actually recommend having this active as it is good for the save file. Bu
 ### Noteworthy Mods
 
 1. [Completionist - Quest Tracker](https://www.nexusmods.com/skyrimspecialedition/mods/46358)
-This mod is visible only in the Mod Configuration window, and it helps the you keep track of all quests done and not done, as well as all unique items you have and are missing.
+This mod is visible only in the Mod Configuration window, and it helps you keep track of all quests done and not done, as well as all unique items you have and are missing.
 
 2. [Unleveled Items](https://www.nexusmods.com/skyrimspecialedition/mods/254)
 You will always get the best version of a reward, so you do not need to wait to be a certain level to get the “perfect” weapon or armor. I find it that if you wait for that, your smithing and enchanting will already surpass the reward’s usefulness. 
 
 3. [Order my items](https://www.nexusmods.com/skyrimspecialedition/mods/13317)
-You can now order ingredients from alchemy shops and ores from blacksmiths. Say you need 10 giant toes. You go to an alchemyst shop, order the item (15% fee) and wait a day, then you can pick them up.
+You can now order ingredients from alchemy shops and ores from blacksmiths. Say you need 10 giant toes. You go to an alchemist shop, order the item (15% fee) and wait a day, then you can pick them up.
 
 4. [Well stocked Alchemists](https://www.nexusmods.com/skyrimspecialedition/mods/1094)
 Alchemist shops now have WAY MORE ingredients for sale, both in variety and quantity.
