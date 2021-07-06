@@ -271,7 +271,7 @@ NIB: I actually recommend having this active as it is good for the save file. Bu
 1. [Completionist - Quest Tracker](https://www.nexusmods.com/skyrimspecialedition/mods/46358)
 This mod is visible only in the Mod Configuration window, and it helps you keep track of all quests done and not done, as well as all unique items you have and are missing.
 
-2. [Unleveled Items](https://www.nexusmods.com/skyrimspecialedition/mods/254)
+2. [Best Version of Quest Rewards](https://www.nexusmods.com/skyrimspecialedition/mods/52024)
 You will always get the best version of a reward, so you do not need to wait to be a certain level to get the “perfect” weapon or armor. I find it that if you wait for that, your smithing and enchanting will already surpass the reward’s usefulness. 
 
 3. [Order my items](https://www.nexusmods.com/skyrimspecialedition/mods/13317)
