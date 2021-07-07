@@ -240,7 +240,7 @@ NIB: Changes the vanilla game play too much.
 9. Apocalypse - Ordinator Compatibility Patch - Needed if you want both mods.
 NIB: You need to use both mods above.
 10. Simple Realistic Archery VR - You have to draw each arrow manually after each shot.
-NIB: I don't find the mod working smoothly enough.
+NIB: I don't find the mod working smoothly enough. If you use this mod, you must make sure that it's plugin is in the top 100 plugins.
 11. Harder Dragons Addon - Dragons have MUCH higher stats.
 NIB: Changes difficulty significantly against dragons. By default I want the list to be vanilla difficulty.
 12. Faster Respawn - Areas reset after only 3 days. Reduces save file bloat and allows for players to clear out dungeons that are already done more frequently.
