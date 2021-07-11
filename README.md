@@ -171,6 +171,9 @@ If you need more performance, you skip 3D audio.
 
 ![image](https://i.ibb.co/dQzVFtL/essentials2.jpg)
 
+Next, place this file in the folder where skyrimvr.exe is located (the steam folder for SkyrimVR):
+https://drive.google.com/file/d/1n5ZIV09uDbZnDMvF_imLhrhZCBrhSwdU/view?usp=sharing
+
 ### Choose ENB or Shader
 From MO2, run the ENB program:
 
