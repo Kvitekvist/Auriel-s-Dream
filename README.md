@@ -249,17 +249,14 @@ NIB: Changes difficulty significantly against dragons. By default I want the lis
 12. Faster Respawn - Areas reset after only 3 days. Reduces save file bloat and allows for players to clear out dungeons that are already done more frequently.
 NIB: I actually recommend having this active as it is good for the save file. But it can be a little exploited by players that just wait 3 days and repeat a cave for easy experience or loot.
 
-### Optional Survival Mods
+### Optional Survival Mode
 ![image](https://i.ibb.co/5LTCpVt/surivial.jpg)
 
 1. iNeed - Food, Water and Sleep. Very popular mod that makes food much more relevant. Pairs very well with Campire and Frostfall for the ultimate surival experience.
 2. Campfire & Frostfall
 3. Food effect for Frostfall
-4. Scarcity SE - Less Loot Mod. Loot becomes much less scares, slowing down your economical growth, and makes finding good treasure much more exciting.
-5. Improved Traps. Makes traps much harder to detect, dangerous to disarm (if you fail) and traps do much more damage.
 
-### Optional Harder Enemies
-![image](https://i.ibb.co/FBxCqHc/harder-enemies.jpg)
+### Optional Hard Mode
 
 1. SkyTEST - Harder Creatures SE. Harder creatures in general.
 2. High Level Enemies. Harder creatures and they scale to your level.ø
@@ -268,6 +265,8 @@ NIB: I actually recommend having this active as it is good for the save file. Bu
 5. True Miraak-Harder Miraak. Powers up Miraak.
 6. Harder Dragons Addon. Dragons har much harder to take down.
 7. Know Your Enemy - Trait-based resistances and weaknesses. You should use different weapon / spell types against different types of enemies.
+8. 4. Scarcity SE - Less Loot Mod. Loot becomes much less scares, slowing down your economical growth, and makes finding good treasure much more exciting.
+9. Bring Your Silver Lite Vamps Ghosts and Werewolves version - You will need silver weapons to better deal with vampires, ghosts and werewolves!
 
 ### Noteworthy Mods
 
@@ -301,17 +300,11 @@ You can now destroy the glass of display cases with blunt weapons and destructio
 10. [GIST - Genuinely Intelligent Soul Trap SE](https://www.nexusmods.com/skyrimspecialedition/mods/15755)
 A new and improved solution to the underfilled soul gem problem.
 
-11. [IMAGINATOR - Visual Control Device for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/4577)
-A light weight colour adjustment spell.
-
-12. [Reading Is Good (Legacy)](https://www.nexusmods.com/skyrimspecialedition/mods/20018)
+11. [Reading Is Good (Legacy)](https://www.nexusmods.com/skyrimspecialedition/mods/20018)
 Reading a skill book now permanently increases your skill leaning speed by 5% per book.
 
-13. [Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)
+12. [Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)
 Really nice system for equiping stuff without opening a menu.
-
-14. [Bring Your Silver Lite Vamps Ghosts and Werewolves version](https://www.nexusmods.com/skyrimspecialedition/mods/3496)
-I've added this to give value to the silver weapons in the game. Also, it shakes things up a bit when you fight undead. Remember to bring silver when hunting the undead!
 
 ### Removing the Modlist
 
