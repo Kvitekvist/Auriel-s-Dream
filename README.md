@@ -194,8 +194,8 @@ If any preset was marked as on, then turn them off, then toggle on the button of
 
 ### How to start up Auriel's Dream
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
-![image](https://i.ibb.co/BT63QKP/Run-SKSE.png)
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to "Play" by selecting it in the dropdown box and then hitting the run button.
+![image](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/images/run%20AD.jpg?raw=true)
 
 ### Make the game brighter
 Run the ENB program from MO2. Then choose a preset that has the word "Brighter Nights" in it. If the game is still too dark for you, use the VrVIsion preset.
