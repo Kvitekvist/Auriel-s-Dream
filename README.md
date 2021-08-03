@@ -8,7 +8,6 @@
 - [Steps to do after Auriel's Dream is installed](#steps-to-do-after-auriels-dream-is-installed)
   - [Activate the Essential Files](#activate-the-essential-files)
   - [Choose ENB or Shader](#choose-enb-or-shader)
-  - [Make the game brighter](#make-the-game-brighter)
   - [How to start up Auriel's Dream](#how-to-start-up-auriels-dream)
   - [Setup VRIK](#setup-vrik)
 - [Updating](#updating)
@@ -84,7 +83,7 @@ Then navigate to the Presets menu by pressing the symbol in the top left (the th
 ![image](https://i.ibb.co/YkFSZJ1/enb3.jpg)
 
 Now here, you can choose from a list of different ENB profiles. There are 3 difference performance indicators in their names. Low means low performance cost, Medium means medium performance cost and High means high performance cost. 
-If any preset was marked as on, then turn them off, then toggle on the button of your choice. By default, The first option is checked. Uncheck this and then check any of the other options that you would like to test.
+If any preset was marked as on, then turn them off, then toggle on the button of your choice. By default, The first option is checked. Uncheck this and then check any of the other options that you would like to test. Some users feel that the game is too dark, if so, choose a preset that has the word "Brighter nights" in it.
 
 ![image](https://i.ibb.co/FH866MN/enb4.jpg)
 
@@ -92,9 +91,6 @@ If any preset was marked as on, then turn them off, then toggle on the button of
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to "Play" by selecting it in the dropdown box and then hitting the run button.
 ![image](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/images/run%20AD.jpg?raw=true)
-
-### Make the game brighter
-Run the ENB program from MO2. Then choose a preset that has the word "Brighter Nights" in it. If the game is still too dark for you, use the VrVIsion preset.
 
 ### Setup VRIK
 I made 2 videos for VRIK
