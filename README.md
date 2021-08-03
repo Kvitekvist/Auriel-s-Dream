@@ -107,17 +107,19 @@ Check this page for how to update the modlist.
 
 ### [Optional Gameplay mods](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Optional-Gameplay-Mods)
 ![image](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/images/optional_gameplay_mods.png?raw=true)
+
 This modlist comes with several optional mods that can be activated at will to change the gameplay in small or big ways.
 [Here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Optional-Gameplay-Mods) you read more about the more general optional mods that are added.
 
 ### [Optional Survival Mode](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Survival-Mode)
+![image](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/images/survival_mode.png?raw=true)
 
 Survial Mode is a merge of several mods to adds a nice and immersive survival mode to the modlist.
-[Click here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Survival-Mode) to see which mods are included
+[Click here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Survival-Mode) to see which mods are included. This game mode is compatible with Hard Mode.
 
 ### [Optional Hard Mode](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Hard-Mode)
-
-Hard Mode has merged several mods that increase the difficulty of the game. [Click here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Hard-Mode)) to see what is included.
+![image](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/images/hardmode.png?raw=true)
+Hard Mode has merged several mods that increase the difficulty of the game. [Click here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Hard-Mode)) to see what is included. Noite that Hell's Ebony Warrior is crazy hard. Consider him the final boss of this modlist. Hard Mode is compatible with Survival Mode.
 
 ### [Noteworthy Mods](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Noteworthy-Mods)
 
