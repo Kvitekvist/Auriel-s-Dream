@@ -3,15 +3,15 @@
 - [Auriel's Dream](#auriel-s-dream)
 - [System Requirements](#system-requirements)
 - [Installation](#installation)
-   - [Downloading and Installing](#downloading-and-installing)
-   - [Problems with Wabbajack](#problems-with-wabbajack)
-- [Post-Installation](#post-installation)
-    - [Activate the Essential Files](#activate-the-essential-files)
-    - [Choose ENB or Shader](#choose-enb-or-shader)
-    - [Make the game brighter](#make-the-game-brighter)
-    - [How to start up Auriel's Dream](#how-to-start-up-auriels-dream)
-    - [Setup VRIK](#setup-vrik)
-- [Updating](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Updating-the-Modlist)
+  - [Downloading and Installing](#downloading-and-installing)
+  - [Problems with Wabbajack](#problems-with-wabbajack)
+- [Steps to do after Auriel's Dream is installed](#steps-to-do-after-auriels-dream-is-installed)
+  - [Activate the Essential Files](#activate-the-essential-files)
+  - [Choose ENB or Shader](#choose-enb-or-shader)
+  - [Make the game brighter](#make-the-game-brighter)
+  - [How to start up Auriel's Dream](#how-to-start-up-auriels-dream)
+  - [Setup VRIK](#setup-vrik)
+- [Updating](#updating)
 - [Optional mods](#optional-mods)
 - [Noteworthy Mods](#noteworthy-mods)
 - [Removing the Modlist](#removing-the-modlist)
@@ -29,25 +29,24 @@ Auriel's Dream is a graphical overhaul of Skyrim VR. The focus is to stay close 
 Minimum system requirements:
 
 Storage Space: 98 GB (rounded uo)
-
-RAM: 32 GB (Or 16GB with a 20GB windows page file) Game uses about 20GB RAM.
-
+RAM: 32 GB (Or 16GB with a 20GB windows page file)
 CPU: Intel Core i7-7700HQ, 4 cores at 2.80 GHz
-
 GPU: GTX 1660
 
 ## Installation
+Let us start the install process.
+
+### [Prepare your PC for Wabbajack](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Pre-install)
 See this page, if it is your first time installing a Wabbajack list.
 It will take you through a process that makes sure WJ can install correctly, that windows will not block any files and how to prevent automatic steam updates for SkyrimVR. All these together makes sure that the install process is the same and goes smoothly for all users.
 
-### [Pre-Installation](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Pre-install)
-
-### [Downloading and Installing](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Download-and-Installing-the-modlist)
-Next step is to download the modlist and install it.
+### [Downloading and Installing Auriel's Dream](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Download-and-Installing-the-modlist)
+Next step is to download the modlist and install it. [Click here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Download-and-Installing-the-modlist) to see how to download and install Auriel's Dream.
 
 ### [Problems with Wabbajack](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Problems-with-Wabbajack)
+If you are having any issues with Wabbajack completing the installation, [Click here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Problems-with-Wabbajack)
 
-## Post-Installation
+## Steps to do after Auriel's Dream is installed
 
 ### Activate the Essential Files
 
