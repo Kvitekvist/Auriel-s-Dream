@@ -104,19 +104,8 @@ I made 2 videos for VRIK
 2. Setup Gestures: https://www.youtube.com/watch?v=CEi7gwN8hgg
 
 
-### Updating
-
-If this Modlist receives an update please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
-
-**Wabbajack will delete all files that are not part of the Modlist when updating!**
-
-This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
-
-Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
-
-### Optional Mods 
-Do check out the Optional mods sections. This contains a lot of popular mods.
-If you want to use any of these, you only need to activate them. Do not change their load order.
+### [Updating](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Updating-the-Modlist)
+Check this page for how to update the modlist.
 
 ### Optional Gameplay mods
 
