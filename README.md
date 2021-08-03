@@ -155,43 +155,9 @@ NIB: I actually recommend having this active as it is good for the save file. Bu
 8. 4. Scarcity SE - Less Loot Mod. Loot becomes much less scares, slowing down your economical growth, and makes finding good treasure much more exciting.
 9. Bring Your Silver Lite Vamps Ghosts and Werewolves version - You will need silver weapons to better deal with vampires, ghosts and werewolves!
 
-### Noteworthy Mods
+### [Noteworthy Mods](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Noteworthy-Mods)
 
-1. [Completionist - Quest Tracker](https://www.nexusmods.com/skyrimspecialedition/mods/46358)
-This mod is visible only in the Mod Configuration window, and it helps you keep track of all quests done and not done, as well as all unique items you have and are missing.
-
-2. [Best Version of Quest Rewards](https://www.nexusmods.com/skyrimspecialedition/mods/52024)
-You will always get the best version of a reward, so you do not need to wait to be a certain level to get the “perfect” weapon or armor. I find it that if you wait for that, your smithing and enchanting will already surpass the reward’s usefulness. 
-
-3. [Order my items](https://www.nexusmods.com/skyrimspecialedition/mods/13317)
-You can now order ingredients from alchemy shops and ores from blacksmiths. Say you need 10 giant toes. You go to an alchemist shop, order the item (15% fee) and wait a day, then you can pick them up.
-
-4. [Well stocked Alchemists](https://www.nexusmods.com/skyrimspecialedition/mods/1094)
-Alchemist shops now have WAY MORE ingredients for sale, both in variety and quantity.
-
-5. [Pick up books simple](https://www.nexusmods.com/skyrimspecialedition/mods/2453)
-You will no longer read a book before picking it up. This way you can pick up skill books and read them later.
-
-6. [Perk Points and More Gold for Bounty Quests](https://www.nexusmods.com/skyrimspecialedition/mods/2743)
-If you do quests from the tavern keepers (I’m looking for work) you now get both gold and perk points.
-
-7. [Dead NPC Body Cleaner Remover](https://www.nexusmods.com/skyrimspecialedition/mods/10614)
-You can now burn dead bodies with fire magic or even torches. Useful to clean up the streets or to counter necromancers.
-
-8. [Upgrade Your Potion](https://www.nexusmods.com/skyrimspecialedition/mods/6063)
-In cooking pots you can take basic health, mana or stamina potions, combine two of the same quality to get a new potion of a higher quality.
-
-9. [Destructible Display Cases](https://www.nexusmods.com/skyrimspecialedition/mods/13625)
-You can now destroy the glass of display cases with blunt weapons and destruction magic. If you are caught, you will get a bounty on you.
-
-10. [GIST - Genuinely Intelligent Soul Trap SE](https://www.nexusmods.com/skyrimspecialedition/mods/15755)
-A new and improved solution to the underfilled soul gem problem.
-
-11. [Reading Is Good (Legacy)](https://www.nexusmods.com/skyrimspecialedition/mods/20018)
-Reading a skill book now permanently increases your skill leaning speed by 5% per book.
-
-12. [Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)
-Really nice system for equiping stuff without opening a menu.
+[Here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Noteworthy-Mods) you can read more about Mods that are added, that alter the game in some way. If you are new to Auriel's Dream, then I highly recommend that you look into these.
 
 ### Removing the Modlist
 
