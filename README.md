@@ -56,7 +56,6 @@ This step will add the required files for SKSE, Engine Fixes, DLL loader and oth
 ![image](https://i.ibb.co/KrvCB09/essentials1.jpg)
 
 Then Click "OK" if you get a message saying something about Failed to check for update. This is ok.
-
 ![image](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/images/update_enb.png?raw=true)
 
 Then navigate to the Presets menu by pressing the symbol in the top left (the three lines). The menu should look like this:
@@ -78,8 +77,7 @@ From MO2, run the ENB program:
 ![image](https://i.ibb.co/9YSbjZG/enb1.jpg)
 
 Then Click "OK" if you get a message saying something about Failed to check for update. This is ok.
-
-![image](https://i.ibb.co/P5mpMfH/enb2.jpg)
+![image](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/images/update_enb.png?raw=true)
 
 Then navigate to the Presets menu by pressing the symbol in the top left (the three lines). The menu should look like this:
 
