@@ -63,14 +63,13 @@ Then navigate to the Presets menu by pressing the symbol in the top left (the th
 
 ![image](https://i.ibb.co/YkFSZJ1/enb3.jpg)
 
+![image](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/images/essentail_toggle.png?raw=true)
 1. You must activate the the "00 Essential Files" option. All others are optional.
 2. "00 3D Audio" ads 3D audio \ surround to SkyrimVR. Really good, effectively essential, but you might get a bit more performance without.
 3. SteamVR - This is on by default, necessary if you run the game via SteamVR.
 4. opencompoisite - This can replace SteamVR and will give Oculus users a strong performance boost.
 5. openvr_fsr - AMD sharpener, not compatible with opencomposite, mixed reviews. Test at your own risk.
 6. Some times, a release will require you to update the Skyrim.ini, if so, toggle "Update Skyrim.ini" off then on again, or toggle it on if it was already off.
-
-![image](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/images/essentail_toggle.png?raw=true)
 
 Next, place this file in the folder where skyrimvr.exe is located (the steam folder for SkyrimVR):
 https://drive.google.com/file/d/1n5ZIV09uDbZnDMvF_imLhrhZCBrhSwdU/view?usp=sharing
