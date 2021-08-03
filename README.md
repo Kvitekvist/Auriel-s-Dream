@@ -112,12 +112,10 @@ Check this page for how to update the modlist.
 This modlist comes with several optional mods that can be activated at will to change the gameplay in small or big ways.
 [Here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Optional-Gameplay-Mods) you read more about the more general optional mods that are added.
 
-### Optional Survival Mode
-![image](https://i.ibb.co/5LTCpVt/surivial.jpg)
+### [Optional Survival Mode](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Survival-Mode)
 
-1. iNeed - Food, Water and Sleep. Very popular mod that makes food much more relevant. Pairs very well with Campire and Frostfall for the ultimate surival experience.
-2. Campfire & Frostfall
-3. Food effect for Frostfall
+Survial Mode is a merge of several mods to adds a nice and immersive survival mode to the modlist.
+[Click here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Survival-Mode) to see which mods are included
 
 ### [Optional Hard Mode](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Hard-Mode)
 
