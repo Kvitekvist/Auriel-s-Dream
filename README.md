@@ -119,7 +119,7 @@ Survial Mode is a merge of several mods to adds a nice and immersive survival mo
 
 ### [Optional Hard Mode](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Hard-Mode)
 ![image](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/images/hardmode.png?raw=true)
-Hard Mode has merged several mods that increase the difficulty of the game. [Click here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Hard-Mode)) to see what is included. Noite that Hell's Ebony Warrior is crazy hard. Consider him the final boss of this modlist. Hard Mode is compatible with Survival Mode.
+Hard Mode has merged several mods that increase the difficulty of the game. [Click here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Hard-Mode) to see what is included. Noite that Hell's Ebony Warrior is crazy hard. Consider him the final boss of this modlist. Hard Mode is compatible with Survival Mode.
 
 ### [Noteworthy Mods](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Noteworthy-Mods)
 
