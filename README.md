@@ -37,27 +37,13 @@ CPU: Intel Core i7-7700HQ, 4 cores at 2.80 GHz
 GPU: GTX 1660
 
 ## Installation
+See this page, if it is your first time installing a Wabbajack list.
+It will take you through a process that makes sure WJ can install correctly, that windows will not block any files and how to prevent automatic steam updates for SkyrimVR. All these together makes sure that the install process is the same and goes smoothly for all users.
 
 ### [Pre-Installation](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Pre-install)
-See this page, if it is your first time installing a Wabbajack list.
 
-### Downloading and Installing
-
-Now, create a new folder on the root of your gaming drive. For me, this is the C drive. Name it "Auriels Dream"
-![image](https://i.ibb.co/V9JdtQT/C-drive-folder.png)
-
-The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD. I Highly recommend getting Nexus premium membership to automate the download process.
-
-1. Open Wabbajack
-![image](https://i.ibb.co/JK3rdZc/Browse-modlist.png)
-
-2. Click on Browse Modlists, and download Auriel's Dream from the gallery.
-
-3. Once the download of the Wabbajack file is done, run the file and set the Installation folder the folder you just created. The downloads path should automatically fill in the installation path.
-
-4. Click the Go/Begin button
-5. Wait for Wabbajack to finish
-6. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
+### [Downloading and Installing](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Download-and-Installing-the-modlist)
+Next step is to download the modlist and install it.
 
 ### [Problems with Wabbajack](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Problems-with-Wabbajack)
 
