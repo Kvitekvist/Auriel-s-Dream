@@ -35,7 +35,7 @@ GPU: GTX 1660
 ## Installation
 Let us start the install process.
 
-### [Prepare your PC for Wabbajack](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Prepare-PC-for-modlist)
+### [Prepare your PC for Wabbajack](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Prepare-PC-for-modlist) (Do this if you do not already have Wabbajack setup)
 See this page, if it is your first time installing a Wabbajack list.
 It will take you through a process that makes sure WJ can install correctly, that windows will not block any files and how to prevent automatic steam updates for SkyrimVR. All these together makes sure that the install process is the same and goes smoothly for all users.
 
