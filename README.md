@@ -70,10 +70,7 @@ Now you will need to toggle on some options:
 3. SteamVR - This is on by default, necessary if you run the game via SteamVR.
 4. opencompoisite - This can replace SteamVR and will give Oculus users a strong performance boost.
 5. openvr_fsr - AMD sharpener, not compatible with opencomposite, mixed reviews. Test at your own risk.
-6. Some times, a release will require you to update the Skyrim.ini, if so, toggle "Update Skyrim.ini" off then on again, or toggle it on if it was already off.
-
-Next, place this file in the folder where skyrimvr.exe is located (the steam folder for SkyrimVR):
-https://drive.google.com/file/d/1n5ZIV09uDbZnDMvF_imLhrhZCBrhSwdU/view?usp=sharing
+6. On install or update, toggle "Update Skyrim.ini" off then on again, or toggle it on if it was already off.
 
 ### Choose ENB or Shader
 From MO2, run the ENB program:
