@@ -128,7 +128,7 @@ The download and installation process can take a very long time depending on you
 5. Wait for Wabbajack to finish
 6. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
 
-[Problems with Wabbajack](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Problems-with-Wabbajack)
+### [Problems with Wabbajack](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Problems-with-Wabbajack)
 
 ## Post-Installation
 
