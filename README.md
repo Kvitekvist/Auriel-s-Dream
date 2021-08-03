@@ -106,7 +106,7 @@ I made 2 videos for VRIK
 Check this page for how to update the modlist.
 
 ### [Optional Gameplay mods](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Optional-Gameplay-Mods)
-[!image](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/images/optional_gameplay_mods.png?raw=true)
+![image](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/images/optional_gameplay_mods.png?raw=true)
 This modlist comes with several optional mods that can be activated at will to change the gameplay in small or big ways.
 [Here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Optional-Gameplay-Mods) you read more about the more general optional mods that are added.
 
