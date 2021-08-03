@@ -63,6 +63,7 @@ Then navigate to the Presets menu by pressing the symbol in the top left (the th
 
 ![image](https://i.ibb.co/YkFSZJ1/enb3.jpg)
 
+Now you will need to toggle on some options:
 ![image](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/images/essentail_toggle.png?raw=true)
 1. You must activate the the "00 Essential Files" option. All others are optional.
 2. "00 3D Audio" ads 3D audio \ surround to SkyrimVR. Really good, effectively essential, but you might get a bit more performance without.
