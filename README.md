@@ -143,17 +143,9 @@ NIB: I actually recommend having this active as it is good for the save file. Bu
 2. Campfire & Frostfall
 3. Food effect for Frostfall
 
-### Optional Hard Mode
+### [Optional Hard Mode](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Hard-Mode)
 
-1. SkyTEST - Harder Creatures SE. Harder creatures in general.
-2. High Level Enemies. Harder creatures and they scale to your level.ø
-3. Real Bosses. Makes bosses harder.
-4. Increased Enemy Spawns SSE No Scripts. 3x more enemies,
-5. True Miraak-Harder Miraak. Powers up Miraak.
-6. Harder Dragons Addon. Dragons har much harder to take down.
-7. Know Your Enemy - Trait-based resistances and weaknesses. You should use different weapon / spell types against different types of enemies.
-8. 4. Scarcity SE - Less Loot Mod. Loot becomes much less scares, slowing down your economical growth, and makes finding good treasure much more exciting.
-9. Bring Your Silver Lite Vamps Ghosts and Werewolves version - You will need silver weapons to better deal with vampires, ghosts and werewolves!
+Hard Mode has merged several mods that increase the difficulty of the game. [Click here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Hard-Mode)) to see what is included.
 
 ### [Noteworthy Mods](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Noteworthy-Mods)
 
