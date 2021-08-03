@@ -11,7 +11,7 @@
     - [Make the game brighter](#make-the-game-brighter)
     - [How to start up Auriel's Dream](#how-to-start-up-auriels-dream)
     - [Setup VRIK](#setup-vrik)
-- [Updating](#updating)
+- [Updating](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Updating-the-Modlist)
 - [Optional mods](#optional-mods)
 - [Noteworthy Mods](#noteworthy-mods)
 - [Removing the Modlist](#removing-the-modlist)
