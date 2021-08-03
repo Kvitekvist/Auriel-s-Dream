@@ -109,32 +109,8 @@ Check this page for how to update the modlist.
 
 ### Optional Gameplay mods
 
-![image](https://i.ibb.co/Yc0vVy3/optional-mods.jpg)
-
-1. MageVR - Popular mod, mostly for the backpack feature and spell gestures.
-Not included because: I don't like the background program this mod needs to run. It can get stuck and cause performance issues. VRIK gestures also has a great gesture system.
-2. Dual Wield Block VR. 
-Not included because (NIB): Not needed unless you play as a dual wield champ. I like to keep "things" to a minimum.
-3. Weapon Throw VR. Throw melee weapons, including bound weapons. Very powerful.
-NIB: I find it too powerful.
-4. VRIK Rift-Index-WMR Controller Bindings. Specific bindings recommended for Rift / Index users.
-NIB: Only relevant for some users.
-5. Spellsiphon - Immersive Combat. Very powerful and different way of magic gameplay.
-NIB: Too powerful and changes the game too much from the Vanilla experience.
-6. Dragonborn Speaks Naturally - Use your voice to control dialogues with NPCs.
-NIB: Some users struggle to get this working. It also does not seem that most players use voice commands. Keeping active things to a minimum.
-7. Ordinator - Perks of Skyrim - For those that want a more advanced perk tree.
-NIB: Changes the vanilla game play too much.
-8. Apocalypse - Magic of Skyrim - For those who wants way more spells added to the game
-NIB: Changes the vanilla game play too much.
-9. Apocalypse - Ordinator Compatibility Patch - Needed if you want both mods.
-NIB: You need to use both mods above.
-10. Simple Realistic Archery VR - You have to draw each arrow manually after each shot.
-NIB: I don't find the mod working smoothly enough. If you use this mod, you must make sure that it's plugin is in the top 100 plugins.
-11. Harder Dragons Addon - Dragons have MUCH higher stats.
-NIB: Changes difficulty significantly against dragons. By default I want the list to be vanilla difficulty.
-12. Faster Respawn - Areas reset after only 3 days. Reduces save file bloat and allows for players to clear out dungeons that are already done more frequently.
-NIB: I actually recommend having this active as it is good for the save file. But it can be a little exploited by players that just wait 3 days and repeat a cave for easy experience or loot.
+This modlist comes with several optional mods that can be activated at will to change the gameplay in small or big ways.
+[Here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Optional-Gameplay-Mods) you read more about the more general optional mods that are added.
 
 ### Optional Survival Mode
 ![image](https://i.ibb.co/5LTCpVt/surivial.jpg)
