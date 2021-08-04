@@ -10,12 +10,12 @@
   - [Choose ENB or Shader](#choose-enb-or-shader)
   - [How to start up Auriel's Dream](#how-to-start-up-auriels-dream)
   - [Setup VRIK](#setup-vrik)
-- [Updating](#updating)
 - [Optional Content in Auriel's Dream](#optional-content-in-auriels-dream)
   - [Optional Gameplay mods](#optional-gameplay-mods)
   - [Optional Survival Mode](#optional-survival-mode)
   - [Optional Hard Mode](#optional-hard-mode)
 - [Noteworthy Mods](#noteworthy-mods)
+- [Updating](#updating)
 - [Removing the Modlist](#removing-the-modlist)
 - [Changelog](#changelog)
 
@@ -105,9 +105,6 @@ In this video you learn how you can attach weapons to your avator body in VR. Me
 2. Setup Gestures: https://www.youtube.com/watch?v=CEi7gwN8hgg
 Gestures are VERY powerful in VR. By making hand gestures you can instantly equip a spell, weapon or even armor. You can instantly cast spells by waving your hand, or consume potions. Playing this way allows you to avoid opening the menu too frequently.
 
-## [Updating](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Updating-the-Modlist)
-Check this page for how to update the modlist.
-
 ## Optional content in Auriel's Dream
 
 ### [Optional Gameplay mods](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Optional-Gameplay-Mods)
@@ -129,6 +126,9 @@ Hard Mode has merged several mods that increase the difficulty of the game. [Cli
 ### [Noteworthy Mods](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Noteworthy-Mods)
 
 [Here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Noteworthy-Mods) you can read more about Mods that are added, that alter the game in some way. If you are new to Auriel's Dream, then I highly recommend that you look into these.
+
+## [Updating](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Updating-the-Modlist)
+Check this page for how to update the modlist.
 
 ### Removing the Modlist
 
