@@ -15,7 +15,7 @@
   - [Optional Survival Mode](#optional-survival-mode)
   - [Optional Hard Mode](#optional-hard-mode)
 - [Noteworthy Mods](#noteworthy-mods)
-- [Updating](#updating)
+- [Updating to a newer version of Auriel's Dream](#updating-to-a-newer-version-of-auriels-dream)
 - [Removing the Modlist](#removing-the-modlist)
 - [Changelog](#changelog)
 
@@ -127,7 +127,7 @@ Hard Mode has merged several mods that increase the difficulty of the game. [Cli
 
 [Here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Noteworthy-Mods) you can read more about Mods that are added, that alter the game in some way. If you are new to Auriel's Dream, then I highly recommend that you look into these.
 
-## [Updating](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Updating-the-Modlist)
+## [Updating to a newer version of Auriel's Dream](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Updating-the-Modlist)
 Check this page for how to update the modlist.
 
 ### Removing the Modlist
