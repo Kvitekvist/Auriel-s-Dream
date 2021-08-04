@@ -101,8 +101,9 @@ Head over to the installation folder and locate an executable named `ModOrganize
 ### Setup VRIK
 I made 2 videos for VRIK
 1. Setup Weapon Holsters: https://www.youtube.com/watch?v=KTGhQCVcgNE
+In this video you learn how you can attach weapons to your avator body in VR. Meaning you can grab a a bow from your back, a sword from your hip and so on.
 2. Setup Gestures: https://www.youtube.com/watch?v=CEi7gwN8hgg
-
+Gestures are VERY powerful in VR. By making hand gestures you can instantly equip a spell, weapon or even armor. You can instantly cast spells by waving your hand, or consume potions. Playing this way allows you to avoid opening the menu too frequently.
 
 ## [Updating](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Updating-the-Modlist)
 Check this page for how to update the modlist.
