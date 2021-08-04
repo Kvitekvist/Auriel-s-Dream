@@ -11,7 +11,10 @@
   - [How to start up Auriel's Dream](#how-to-start-up-auriels-dream)
   - [Setup VRIK](#setup-vrik)
 - [Updating](#updating)
-- [Optional mods](#optional-mods)
+- [Optional Content in Auriel's Dream](#optional-content-in-auriels-dream)
+  - [Optional Gameplay mods](#optional-gameplay-mods)
+  - [Optional Survival Mode](#optional-survival-mode)
+  - [Optional Hard Mode](#optional-hard-mode)
 - [Noteworthy Mods](#noteworthy-mods)
 - [Removing the Modlist](#removing-the-modlist)
 - [Changelog](#changelog)
@@ -98,8 +101,10 @@ I made 2 videos for VRIK
 2. Setup Gestures: https://www.youtube.com/watch?v=CEi7gwN8hgg
 
 
-### [Updating](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Updating-the-Modlist)
+## [Updating](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Updating-the-Modlist)
 Check this page for how to update the modlist.
+
+## Optional content in Auriel's Dream
 
 ### [Optional Gameplay mods](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Optional-Gameplay-Mods)
 ![image](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/images/optional_gameplay_mods.png?raw=true)
