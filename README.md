@@ -1,23 +1,23 @@
 # Auriel's Dream
 
-- [1. Auriel's Dream](#1.auriel-s-dream)
+- [1. Auriel's Dream](#1auriel-s-dream)
   - [System Requirements](#system-requirements)
-- [2. Installation](#2.installation)
+- [2. Installation](#2installation)
   - [Downloading and Installing](#downloading-and-installing)
   - [Problems with Wabbajack](#problems-with-wabbajack)
-- [3. Steps to do after Auriel's Dream is installed](#3.steps-to-do-after-auriels-dream-is-installed)
+- [3. Steps to do after Auriel's Dream is installed](#3steps-to-do-after-auriels-dream-is-installed)
   - [Activate the Essential Files](#activate-the-essential-files)
   - [Choose ENB or Shader](#choose-enb-or-shader)
-- [4. How to start up Auriel's Dream](#4.how-to-start-up-auriels-dream)
+- [4. How to start up Auriel's Dream](#4how-to-start-up-auriels-dream)
   - [Setup VRIK](#setup-vrik)
-- [5. Optional Content in Auriel's Dream](#5.optional-content-in-auriels-dream)
+- [5. Optional Content in Auriel's Dream](#5optional-content-in-auriels-dream)
   - [Optional Gameplay mods](#optional-gameplay-mods)
   - [Optional Survival Mode](#optional-survival-mode)
   - [Optional Hard Mode](#optional-hard-mode)
-- [6. Noteworthy Mods](#6.noteworthy-mods)
-- [7. Updating to a newer version of Auriel's Dream](#7.updating-to-a-newer-version-of-auriels-dream)
-- [8. Removing the Modlist](#8.removing-the-modlist)
-- [9. Changelog](#9.changelog)
+- [6. Noteworthy Mods](#6noteworthy-mods)
+- [7. Updating to a newer version of Auriel's Dream](#7updating-to-a-newer-version-of-auriels-dream)
+- [8. Removing the Modlist](#8removing-the-modlist)
+- [9. Changelog](#9changelog)
 
 ## 1. Auriel's Dream
 
