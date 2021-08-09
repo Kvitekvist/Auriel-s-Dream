@@ -58,7 +58,6 @@ If you are having any issues with Wabbajack completing the installation, [Click 
 DO NOT RUN LOOT! Everytime you run LOOT a kitten dies and we cry in the corner. The load order is exactly as it should be, do not change it.
 
 This step will add the required files for SKSE, Engine Fixes, DLL loader and other essential files that cannot be handled by MO2.
-![image](https://i.ibb.co/YkFSZJ1/enb3.jpg)
 
 [Click here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Essential-Files) for instructions on how to activate the Essential Files correctly.
 
