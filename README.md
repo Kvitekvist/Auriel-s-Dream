@@ -62,9 +62,10 @@ This step will add the required files for SKSE, Engine Fixes, DLL loader and oth
 [Click here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Essential-Files) for instructions on how to activate the Essential Files correctly.
 
 
-### Choose ENB or Shader
+### [Choose ENB or Shader](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/ENB-and-ReShader)
 Auriel's Dream comes with several presets for both ENB and for ReShade.
 There are 3 difference performance indicators in their names. Low means low performance cost, Medium means medium performance cost and High means high performance cost.
+[Click here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/ENB-and-ReShader) for instructions on how to activate/update/change ENB or ReShade.
 
 ## 4. How to start up Auriel's Dream
 
