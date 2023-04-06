@@ -69,7 +69,7 @@ Here we have 3 categories. Opencomposite, ENB / ReShade and Upscaler.
 DLAA cost more FPS but also removes pretty much all shimmer in the game. Need RTX graphics card.
 DLSS gives performance boost but lowers the visual quality a little. Also removes shimmer. Need RTX graphics card.
 FSR works for both AMD and  Nvidia cards. Applies foveated rendering, boosting performance by reducing resolution of stuff that is not in the center of the lenses.
-[img]https://raw.githubusercontent.com/Kvitekvist/Auriel-s-Dream/master/images/optional%20boot%20files.png[/img]
+![image]([https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/images/optional_gameplay_mods.png?raw=true](https://raw.githubusercontent.com/Kvitekvist/Auriel-s-Dream/master/images/optional%20boot%20files.png))
 
 **DO NOT RUN LOOT!** Everytime you run LOOT a kitten dies and we cry in the corner. The load order is exactly as it should be, do not change it
 
