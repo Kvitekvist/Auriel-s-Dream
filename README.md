@@ -54,21 +54,26 @@ Next step is to download the modlist and install it. [Click here](https://github
 ### [Problems with Wabbajack](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Problems-with-Wabbajack)
 If you are having any issues with Wabbajack completing the installation, [Click here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Problems-with-Wabbajack)
 
-## 3. Steps to do after Auriel's Dream is installed
+## 3. Optional steps to do after Auriel's Dream is installed
+The game is now ready to launch. But you can make a few optional selections before booting.
 
-### [Activate the Essential Files](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Essential-Files)
+### 3.1 Activate the Essential Files and ENB
+This step is optional. 
+Here we have 3 categories. Opencomposite, ENB / ReShade and Upscaler.
 
-DO NOT RUN LOOT! Everytime you run LOOT a kitten dies and we cry in the corner. The load order is exactly as it should be, do not change it.
+**Opencomposite** is recommended for meta quest users. But it only works with link cable or air link, not virtual desktop. This option gives you a huge performance boost.
 
-This step will add the required files for SKSE, Engine Fixes, DLL loader and other essential files that cannot be handled by MO2.
+**ENB or ReShade** is a visual improvement, but it cost FPS. How much is indicated with low, medium or high.  High cost dont always mean better visuals. Try them out. Only choose one ENB or one ReShade. You can also use one ENB and one ReShade together but i wont recommend that for most users.
 
-[Click here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Essential-Files) for instructions on how to activate the Essential Files correctly.
+**Upscaler** is also kind of recommended. Choose one.
+DLAA cost more FPS but also removes pretty much all shimmer in the game. Need RTX graphics card.
+DLSS gives performance boost but lowers the visual quality a little. Also removes shimmer. Need RTX graphics card.
+FSR works for both AMD and  Nvidia cards. Applies foveated rendering, boosting performance by reducing resolution of stuff that is not in the center of the lenses.
+
+[img]https://raw.githubusercontent.com/Kvitekvist/Auriel-s-Dream/master/images/optional%20boot%20files.png[/img]
 
 
-### [Choose ENB or Shader](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/ENB-and-ReShader)
-Auriel's Dream comes with several presets for both ENB and for ReShade.
-There are 3 difference performance indicators in their names. Low means low performance cost, Medium means medium performance cost and High means high performance cost.
-[Click here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/ENB-and-ReShader) for instructions on how to activate/update/change ENB or ReShade.
+**DO NOT RUN LOOT!** Everytime you run LOOT a kitten dies and we cry in the corner. The load order is exactly as it should be, do not change it.
 
 ## 4. How to start up Auriel's Dream
 
