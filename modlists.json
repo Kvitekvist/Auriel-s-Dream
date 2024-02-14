@@ -30,6 +30,7 @@
       "discordURL": "https://discord.gg/eC9KvaBxHv"
     },
     "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "qS0hg1VWjVI=",
       "Size": 335163967,
       "NumberOfArchives": 867,
