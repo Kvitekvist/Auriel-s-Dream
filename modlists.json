@@ -1,37 +1,41 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "My Modlist",
-    "description": "Best thing since sliced bread",
-    "author": "<any name you want to show up in the UI>",
+    "title": "Auriels Dream",
+    "description": "Auriels Dream offer a unique thematic overhaul. Warmer colors kind of bring an Oblivion vibe to this modlist. Great for players new to Skyrim. Difficulty: Vanilla. Not many changes are done to alter the game play except adding VR spesific mods, bug fixes and a few Quality of Life mods.",
+    "author": "Kvitekvist",
     "maintainers": [
-      "github/<your github name>"
+      "github/Kvitekvist",
+      "github/Azrea631",
+      "kvitekvist"
     ],
-    "game": "skyrimspecialedition",
+    "game": "skyrimvr",
+    "official": false,
     "tags": [
-      "testing",
-      "<any tags you want in the UI, each in its own string"
+      "Official",
+      "High-Fantasy",
+      "Near Vanilla",
+      "VR"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "<link to an image to show in the UI>",
-      "readme": "<link to your readme for your modlist>",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "machineURL",
-      "discordURL": "<your discord link here>"
+      "image": "https://raw.githubusercontent.com/Kvitekvist/Auriel-s-Dream/master/images/auriels_dream.webp",
+      "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/41020",
+      "download": "https://authored-files.wabbajack.org/Auriels Dream.wabbajack_60d780db-ee0a-4004-89c4-8d5c322be5c1",
+      "machineURL": "auriels_dream",
+      "discordURL": "https://discord.gg/eC9KvaBxHv"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
-    },
-    "version": "1.0"
+      "Hash": "qS0hg1VWjVI=",
+      "Size": 335163967,
+      "NumberOfArchives": 867,
+      "SizeOfArchives": 57713935568,
+      "NumberOfInstalledFiles": 142494,
+      "SizeOfInstalledFiles": 78090850092
+    "version": "12.0.6"
   }
 ]
