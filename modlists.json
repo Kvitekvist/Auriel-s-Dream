@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Auriels Dream",
     "description": "Auriels Dream offer a unique thematic overhaul. Warmer colors kind of bring an Oblivion vibe to this modlist. Great for players new to Skyrim. Difficulty: Vanilla. Not many changes are done to alter the game play except adding VR spesific mods, bug fixes and a few Quality of Life mods.",
     "author": "Kvitekvist",
@@ -23,22 +22,23 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Kvitekvist/Auriel-s-Dream/master/images/auriels_dream.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/41020",
-      "download": "https://authored-files.wabbajack.org/Auriels Dream.wabbajack_60d780db-ee0a-4004-89c4-8d5c322be5c1",
+      "download": "https://authored-files.wabbajack.org/Auriels Dream.wabbajack_17c2d74a-a6a2-4049-b95d-3163ae6ac903",
       "machineURL": "auriels_dream",
       "discordURL": "https://discord.gg/eC9KvaBxHv"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "qS0hg1VWjVI=",
-      "Size": 335163967,
+      "Hash": "SvVCknhXxRc=",
+      "Size": 335162521,
       "NumberOfArchives": 867,
       "SizeOfArchives": 57713935568,
       "NumberOfInstalledFiles": 142494,
-      "SizeOfInstalledFiles": 78090850092
- },
-    "version": "12.0.6"
+      "SizeOfInstalledFiles": 78090850906
+    },
+    "version": "12.0.6",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-02-14T21:21:41.3629758Z",
+    "repositoryName": ""
   }
 ]
