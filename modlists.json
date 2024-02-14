@@ -23,6 +23,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
+      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Kvitekvist/Auriel-s-Dream/master/images/auriels_dream.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/41020",
       "download": "https://authored-files.wabbajack.org/Auriels Dream.wabbajack_60d780db-ee0a-4004-89c4-8d5c322be5c1",
