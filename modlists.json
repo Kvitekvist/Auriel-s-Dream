@@ -24,21 +24,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Kvitekvist/Auriel-s-Dream/master/images/auriels_dream.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/41020",
-      "download": "https://authored-files.wabbajack.org/Auriel\u0027s Dream.wabbajack_a67d6c3d-fa87-4734-ace0-a34fe31c9993",
+      "download": "https://authored-files.wabbajack.org/Auriel\u0027s Dream.wabbajack_87791bbf-f4a3-4dd9-b591-33544a3ccc32",
       "machineURL": "auriels_dream",
       "discordURL": "https://discord.gg/eC9KvaBxHv"
     },
     "download_metadata": {
-      "Hash": "2CDlh9qkoj0=",
-      "Size": 341897478,
+      "Hash": "HYKbN7eo0lU=",
+      "Size": 341862394,
       "NumberOfArchives": 869,
       "SizeOfArchives": 58695602373,
-      "NumberOfInstalledFiles": 143012,
-      "SizeOfInstalledFiles": 78254823823
+      "NumberOfInstalledFiles": 143013,
+      "SizeOfInstalledFiles": 78254826707
     },
-    "version": "12.0.8",
+    "version": "12.0.9",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-02-22T18:54:54.8296806Z",
+    "dateUpdated": "2024-04-15T18:07:08.1866548Z",
     "repositoryName": ""
   }
 ]
