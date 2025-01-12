@@ -39,5 +39,42 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-10-21T16:39:18.4961081Z",
     "repositoryName": ""
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Auriel's Dream - AE",
+    "description": "Auriels Dream - a visually focused modlist. Colors are warmer and theme is high fantasy, complimented with Community Shader. No changes to perks, leveling, crating and so on by default. But optional mods are provided to add popular game changing mods. Also offers two game modes, hard mode and survival mode. Comes with complete LODs.",
+    "author": "Kvitekvist",
+    "maintainers": [
+      "github/Kvitekvist",
+      "Kvitekvist"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "AE",
+      "High Fantasy",
+      "Easy"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Kvitekvist/auriels-dream-ae/master/images/adae_logo.webp",
+      "readme": "https://github.com/Kvitekvist/auriels-dream-ae/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/adae.wabbajack_3407456a-a9c1-4032-aa83-bdb352bdd3ab",
+      "machineURL": "auriels_dream_ae",
+      "discordURL": "https://discord.gg/mNPws3YTz7"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "py/SfW+0aPc=",
+      "Size": 623342796,
+      "NumberOfArchives": 739,
+      "SizeOfArchives": 75859670169,
+      "NumberOfInstalledFiles": 207347,
+      "SizeOfInstalledFiles": 105049762083
+    },
+    "version": "1.0"
   }
 ]
