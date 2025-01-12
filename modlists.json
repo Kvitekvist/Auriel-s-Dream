@@ -21,7 +21,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Kvitekvist/Auriel-s-Dream/master/images/auriels_dream.webp",
+      "image": "https://raw.githubusercontent.com/Kvitekvist/auriels-dream-ae/master/images/AurielsDream.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/41020",
       "download": "https://authored-files.wabbajack.org/Auriel\u0027s Dream.wabbajack_feae9223-b6fc-42ed-b400-eee55b1ef196",
       "machineURL": "auriels_dream",
@@ -60,7 +60,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Kvitekvist/auriels-dream-ae/master/images/adae_logo.webp",
+      "image": "https://raw.githubusercontent.com/Kvitekvist/auriels-dream-ae/master/images/AurielsDream.webp",
       "readme": "https://github.com/Kvitekvist/auriels-dream-ae/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/adae.wabbajack_3407456a-a9c1-4032-aa83-bdb352bdd3ab",
       "machineURL": "auriels_dream_ae",
