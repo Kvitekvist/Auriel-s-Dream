@@ -27,7 +27,7 @@ Here is a quick install video:
 https://www.youtube.com/watch?v=DRH5D-qEu9I
 
 
-[![See trailer](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/AD%20Cover2_low.png?raw=true)](https://youtu.be/ZYQVn2SGNI0)
+[![See trailer](https://staticdelivery.nexusmods.com/mods/1704/images/41020/41020-1736511656-631593872.png)](https://youtu.be/ZYQVn2SGNI0)
 
 ### System Requirements
 
@@ -78,13 +78,6 @@ FSR works for both AMD and  Nvidia cards. Applies foveated rendering, boosting p
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to "Play" by selecting it in the dropdown box and then hitting the run button.
 ![image](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/images/run%20AD.jpg?raw=true)
-
-### Setup VRIK
-I made 2 videos for VRIK
-1. Setup Weapon Holsters: https://www.youtube.com/watch?v=KTGhQCVcgNE
-In this video you learn how you can attach weapons to your avator body in VR. Meaning you can grab a a bow from your back, a sword from your hip and so on.
-2. Setup Gestures: https://www.youtube.com/watch?v=CEi7gwN8hgg
-Gestures are VERY powerful in VR. By making hand gestures you can instantly equip a spell, weapon or even armor. You can instantly cast spells by waving your hand, or consume potions. Playing this way allows you to avoid opening the menu too frequently.
 
 ## 5. Optional content in Auriel's Dream
 
