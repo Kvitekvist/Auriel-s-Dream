@@ -23,26 +23,25 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Kvitekvist/auriels-dream-ae/master/images/AurielsDream.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/41020",
-      "download": "https://authored-files.wabbajack.org/Auriel\u0027s Dream.wabbajack_feae9223-b6fc-42ed-b400-eee55b1ef196",
+      "download": "https://authored-files.wabbajack.org/Auriel\u0027s Dream.wabbajack_d2ca4045-5a95-4edc-b43f-455f1bdb1532",
       "machineURL": "auriels_dream",
       "discordURL": "https://discord.gg/eC9KvaBxHv"
     },
     "download_metadata": {
-      "Hash": "bwGkUPpq28k=",
-      "Size": 1329319430,
-      "NumberOfArchives": 869,
-      "SizeOfArchives": 62065478439,
-      "NumberOfInstalledFiles": 142075,
-      "SizeOfInstalledFiles": 81505055652
+      "Hash": "Oz0QO4tCigM=",
+      "Size": 2221806276,
+      "NumberOfArchives": 862,
+      "SizeOfArchives": 61967430243,
+      "NumberOfInstalledFiles": 226672,
+      "SizeOfInstalledFiles": 88419614423
     },
-    "version": "12.2.0",
+    "version": "12.2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-10-21T16:39:18.4961081Z",
+    "dateUpdated": "2025-03-01T08:42:33.4471145Z",
     "repositoryName": ""
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Auriel's Dream - AE",
+    "title": "Auriel\u0027s Dream - AE",
     "description": "Auriels Dream - a visually focused modlist. Colors are warmer and theme is high fantasy, complimented with Community Shader. No changes to perks, leveling, crating and so on by default. But optional mods are provided to add popular game changing mods. Also offers two game modes, hard mode and survival mode. Comes with complete LODs.",
     "author": "Kvitekvist",
     "maintainers": [
@@ -50,16 +49,18 @@
       "Kvitekvist"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "AE",
       "High Fantasy",
       "Easy"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Kvitekvist/auriels-dream-ae/master/images/AurielsDream.webp",
       "readme": "https://github.com/Kvitekvist/auriels-dream-ae/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/adae.wabbajack_3407456a-a9c1-4032-aa83-bdb352bdd3ab",
@@ -67,7 +68,6 @@
       "discordURL": "https://discord.gg/mNPws3YTz7"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "py/SfW+0aPc=",
       "Size": 623342796,
       "NumberOfArchives": 739,
@@ -75,6 +75,9 @@
       "NumberOfInstalledFiles": 207347,
       "SizeOfInstalledFiles": 105049762083
     },
-    "version": "1.0"
+    "version": "1.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   }
 ]
