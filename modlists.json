@@ -23,21 +23,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Kvitekvist/auriels-dream-ae/master/images/AurielsDream.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/41020",
-      "download": "https://authored-files.wabbajack.org/Auriel\u0027s Dream.wabbajack_49374ffb-7a97-48da-99cf-5afc24942eb4",
+      "download": "https://authored-files.wabbajack.org/Auriel\u0027s Dream.wabbajack_d9b9eae3-b342-4b6c-b851-c616692efb37",
       "machineURL": "auriels_dream",
-      "discordURL": "https://discord.gg/eC9KvaBxHv"
+      "discordURL": "https://discord.gg/eC9KvaBxHv",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "/ShuLR4CS5o=",
-      "Size": 1137093024,
-      "NumberOfArchives": 864,
-      "SizeOfArchives": 62039827547,
-      "NumberOfInstalledFiles": 231702,
-      "SizeOfInstalledFiles": 86211683293
+      "Hash": "qALWDaFGzn4=",
+      "Size": 1344153111,
+      "NumberOfArchives": 873,
+      "SizeOfArchives": 62213318171,
+      "NumberOfInstalledFiles": 231681,
+      "SizeOfInstalledFiles": 86904199000,
+      "TotalSize": 149117517171
     },
     "version": "12.2.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-03-01T13:26:06.3727785Z",
+    "dateUpdated": "2025-07-24T13:10:40.8181723Z",
     "repositoryName": ""
   },
   {
@@ -65,7 +67,8 @@
       "readme": "https://github.com/Kvitekvist/auriels-dream-ae/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Auriel\u0027s Dream  - AE.wabbajack_09f4a4fc-a240-4df3-bfa9-034bf9641000",
       "machineURL": "auriels_dream_ae",
-      "discordURL": "https://discord.gg/mNPws3YTz7"
+      "discordURL": "https://discord.gg/mNPws3YTz7",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "To6QBm518ro=",
@@ -73,7 +76,8 @@
       "NumberOfArchives": 749,
       "SizeOfArchives": 76861557255,
       "NumberOfInstalledFiles": 207670,
-      "SizeOfInstalledFiles": 105943899138
+      "SizeOfInstalledFiles": 105943899138,
+      "TotalSize": 182805456393
     },
     "version": "1.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
