@@ -65,23 +65,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Kvitekvist/auriels-dream-ae/master/images/AurielsDream.webp",
       "readme": "https://github.com/Kvitekvist/auriels-dream-ae/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Auriel\u0027s Dream  - AE.wabbajack_09f4a4fc-a240-4df3-bfa9-034bf9641000",
+      "download": "https://authored-files.wabbajack.org/Auriel\u0027s Dream  - AE.wabbajack_4acf9339-c699-49d1-a4f5-ae549e5f83de",
       "machineURL": "auriels_dream_ae",
       "discordURL": "https://discord.gg/mNPws3YTz7",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "To6QBm518ro=",
-      "Size": 546393828,
+      "Hash": "rgfRVrAWsCI=",
+      "Size": 752516068,
       "NumberOfArchives": 749,
       "SizeOfArchives": 76861557255,
-      "NumberOfInstalledFiles": 207670,
-      "SizeOfInstalledFiles": 105943899138,
-      "TotalSize": 182805456393
+      "NumberOfInstalledFiles": 207667,
+      "SizeOfInstalledFiles": 105941187515,
+      "TotalSize": 182802744770
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-03-02T21:47:34.2961431Z",
+    "dateUpdated": "2025-09-05T18:44:34.7335207Z",
     "repositoryName": ""
   }
 ]
